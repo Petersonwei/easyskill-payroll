@@ -1,0 +1,818 @@
+{
+  "meta": {
+    "version": "8.8.0.19",
+    "androidMinVersion": "2.24.0",
+    "iosMinVersion": "2.22.0",
+    "isLogged": true,
+    "language": "en",
+    "timestamp": 1715177532429,
+    "customer": "easy-skill"
+  },
+  "data": {
+    "id": "appPostProduction_9187",
+    "type": "perimeters",
+    "attributes": {
+      "required": false,
+      "allManagerTypes": false,
+      "allAgencies": true,
+      "resourceTypes": []
+    },
+    "relationships": {
+      "managers": {
+        "data": [
+          {
+            "id": "9187",
+            "type": "resource"
+          },
+          {
+            "id": "13269",
+            "type": "resource"
+          },
+          {
+            "id": "10816",
+            "type": "resource"
+          },
+          {
+            "id": "1",
+            "type": "resource"
+          },
+          {
+            "id": "16610",
+            "type": "resource"
+          },
+          {
+            "id": "16130",
+            "type": "resource"
+          },
+          {
+            "id": "13681",
+            "type": "resource"
+          },
+          {
+            "id": "819",
+            "type": "resource"
+          },
+          {
+            "id": "12079",
+            "type": "resource"
+          },
+          {
+            "id": "15197",
+            "type": "resource"
+          },
+          {
+            "id": "1315",
+            "type": "resource"
+          },
+          {
+            "id": "11161",
+            "type": "resource"
+          },
+          {
+            "id": "3091",
+            "type": "resource"
+          },
+          {
+            "id": "8305",
+            "type": "resource"
+          },
+          {
+            "id": "12429",
+            "type": "resource"
+          },
+          {
+            "id": "15199",
+            "type": "resource"
+          },
+          {
+            "id": "3364",
+            "type": "resource"
+          },
+          {
+            "id": "8678",
+            "type": "resource"
+          },
+          {
+            "id": "14198",
+            "type": "resource"
+          },
+          {
+            "id": "13124",
+            "type": "resource"
+          },
+          {
+            "id": "13125",
+            "type": "resource"
+          },
+          {
+            "id": "3492",
+            "type": "resource"
+          },
+          {
+            "id": "2",
+            "type": "resource"
+          },
+          {
+            "id": "11639",
+            "type": "resource"
+          },
+          {
+            "id": "5501",
+            "type": "resource"
+          },
+          {
+            "id": "6078",
+            "type": "resource"
+          },
+          {
+            "id": "13967",
+            "type": "resource"
+          },
+          {
+            "id": "14197",
+            "type": "resource"
+          },
+          {
+            "id": "16907",
+            "type": "resource"
+          },
+          {
+            "id": "6647",
+            "type": "resource"
+          },
+          {
+            "id": "1271",
+            "type": "resource"
+          },
+          {
+            "id": "15930",
+            "type": "resource"
+          },
+          {
+            "id": "12428",
+            "type": "resource"
+          },
+          {
+            "id": "12467",
+            "type": "resource"
+          }
+        ]
+      },
+      "businessUnits": {
+        "data": [
+          {
+            "id": "3",
+            "type": "businessunit"
+          }
+        ]
+      },
+      "agencies": {
+        "data": [
+          {
+            "id": "1",
+            "type": "agency"
+          },
+          {
+            "id": "2",
+            "type": "agency"
+          },
+          {
+            "id": "3",
+            "type": "agency"
+          },
+          {
+            "id": "4",
+            "type": "agency"
+          },
+          {
+            "id": "5",
+            "type": "agency"
+          },
+          {
+            "id": "6",
+            "type": "agency"
+          },
+          {
+            "id": "7",
+            "type": "agency"
+          },
+          {
+            "id": "8",
+            "type": "agency"
+          },
+          {
+            "id": "9",
+            "type": "agency"
+          },
+          {
+            "id": "10",
+            "type": "agency"
+          },
+          {
+            "id": "11",
+            "type": "agency"
+          }
+        ]
+      },
+      "poles": {
+        "data": [
+          {
+            "id": "14",
+            "type": "pole"
+          },
+          {
+            "id": "13",
+            "type": "pole"
+          },
+          {
+            "id": "16",
+            "type": "pole"
+          },
+          {
+            "id": "9",
+            "type": "pole"
+          },
+          {
+            "id": "5",
+            "type": "pole"
+          },
+          {
+            "id": "12",
+            "type": "pole"
+          },
+          {
+            "id": "3",
+            "type": "pole"
+          },
+          {
+            "id": "10",
+            "type": "pole"
+          },
+          {
+            "id": "2",
+            "type": "pole"
+          },
+          {
+            "id": "1",
+            "type": "pole"
+          },
+          {
+            "id": "11",
+            "type": "pole"
+          },
+          {
+            "id": "8",
+            "type": "pole"
+          },
+          {
+            "id": "7",
+            "type": "pole"
+          },
+          {
+            "id": "15",
+            "type": "pole"
+          },
+          {
+            "id": "4",
+            "type": "pole"
+          },
+          {
+            "id": "6",
+            "type": "pole"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "9187",
+      "type": "resource",
+      "attributes": {
+        "lastName": "CHAN",
+        "firstName": "Deborah",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "13269",
+      "type": "resource",
+      "attributes": {
+        "lastName": "ANDANAR",
+        "firstName": "Jonie",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "10816",
+      "type": "resource",
+      "attributes": {
+        "lastName": "BOMA",
+        "firstName": "Louise",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "1",
+      "type": "resource",
+      "attributes": {
+        "lastName": "BUSSY",
+        "firstName": "Pierre",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "16610",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Caseda",
+        "firstName": "Cindy",
+        "thumbnail": "resource_16610_5eea98d087694e80e6dfe78318c81b0c44549f4a"
+      }
+    },
+    {
+      "id": "16130",
+      "type": "resource",
+      "attributes": {
+        "lastName": "CASTIONI",
+        "firstName": "EMILIE",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "13681",
+      "type": "resource",
+      "attributes": {
+        "lastName": "COSTANTINE",
+        "firstName": "JAD",
+        "thumbnail": "resource_13681_ae2fa9714bc810d995b5fa8ca8cc1200b08aa5ac"
+      }
+    },
+    {
+      "id": "819",
+      "type": "resource",
+      "attributes": {
+        "lastName": "CROM",
+        "firstName": "Mickael",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "12079",
+      "type": "resource",
+      "attributes": {
+        "lastName": "DEL CORRO",
+        "firstName": "Jann Michael",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "15197",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Deleplanque",
+        "firstName": "Th\u00e9odore",
+        "thumbnail": "resource_15197_5ace7d08f82f5640c9ac7591de4c2891d20389d9"
+      }
+    },
+    {
+      "id": "1315",
+      "type": "resource",
+      "attributes": {
+        "lastName": "DEVEDEUX",
+        "firstName": "Remy",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "11161",
+      "type": "resource",
+      "attributes": {
+        "lastName": "DIALLO",
+        "firstName": "Aminatou",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "3091",
+      "type": "resource",
+      "attributes": {
+        "lastName": "FREYCHET",
+        "firstName": "Emma-Jane",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "8305",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Holmes",
+        "firstName": "Lynneth",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "12429",
+      "type": "resource",
+      "attributes": {
+        "lastName": "IGI",
+        "firstName": "Aruther",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "15199",
+      "type": "resource",
+      "attributes": {
+        "lastName": "JUALO",
+        "firstName": "Gee Armane",
+        "thumbnail": "resource_15199_6653b55ff443207a786aaab00837118ebe6d6af2"
+      }
+    },
+    {
+      "id": "3364",
+      "type": "resource",
+      "attributes": {
+        "lastName": "KILI",
+        "firstName": "Jothen",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "8678",
+      "type": "resource",
+      "attributes": {
+        "lastName": "KOI",
+        "firstName": "Solomon",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "14198",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Koni",
+        "firstName": "Georgina",
+        "thumbnail": "resource_14198_8280192f3a875e87aeb18cdf0f9a89153e33083b"
+      }
+    },
+    {
+      "id": "13124",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Kregi",
+        "firstName": "Aka",
+        "thumbnail": "resource_13124_7aabb8e1d6c31cea06a20d1ecaf64223d2f17284"
+      }
+    },
+    {
+      "id": "13125",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Kwarujambi",
+        "firstName": "Sheridan",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "3492",
+      "type": "resource",
+      "attributes": {
+        "lastName": "LEFORT",
+        "firstName": "C\u00e9cile",
+        "thumbnail": "resource_3492_b2433278385d00cbfdacd71f8fc202863eb16266"
+      }
+    },
+    {
+      "id": "2",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Lorho",
+        "firstName": "Christopher",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "11639",
+      "type": "resource",
+      "attributes": {
+        "lastName": "MAHOUX",
+        "firstName": "CARINE",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "5501",
+      "type": "resource",
+      "attributes": {
+        "lastName": "MALU",
+        "firstName": "Victoria",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "6078",
+      "type": "resource",
+      "attributes": {
+        "lastName": "MARTINE",
+        "firstName": "Jonathan",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "13967",
+      "type": "resource",
+      "attributes": {
+        "lastName": "NAIPAO",
+        "firstName": "Clinton Justin",
+        "thumbnail": "resource_13967_ef39a0969ea7188f31fbcbfca5d835f309b3e87f"
+      }
+    },
+    {
+      "id": "14197",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Pupo",
+        "firstName": "Fenny",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "16907",
+      "type": "resource",
+      "attributes": {
+        "lastName": "RAKOTOARISOA",
+        "firstName": "TSIORY",
+        "thumbnail": "resource_16907_1f3bdefa62365a982256d9dbfc888b6576a8b90c"
+      }
+    },
+    {
+      "id": "6647",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Ramanah",
+        "firstName": "Jay",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "1271",
+      "type": "resource",
+      "attributes": {
+        "lastName": "RIX",
+        "firstName": "Graham",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "15930",
+      "type": "resource",
+      "attributes": {
+        "lastName": "SAMBA KHAMY",
+        "firstName": "Osllie",
+        "thumbnail": "resource_15930_97d7e3fd388319e6a9b30c1cfd668dd28933f040"
+      }
+    },
+    {
+      "id": "12428",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Upeguto",
+        "firstName": "Esther",
+        "thumbnail": ""
+      }
+    },
+    {
+      "id": "12467",
+      "type": "resource",
+      "attributes": {
+        "lastName": "VELDJEE",
+        "firstName": "Ronase",
+        "thumbnail": "resource_12467_aaa2e575c9fc34551a7b708e917b46a455e12f44"
+      }
+    },
+    {
+      "id": "3",
+      "type": "businessunit",
+      "attributes": {
+        "name": "BU Defence Australia"
+      }
+    },
+    {
+      "id": "1",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill France",
+        "state": true
+      }
+    },
+    {
+      "id": "2",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Australia Intl",
+        "state": true
+      }
+    },
+    {
+      "id": "3",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill NC",
+        "state": true
+      }
+    },
+    {
+      "id": "4",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill PNG Limited",
+        "state": true
+      }
+    },
+    {
+      "id": "5",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Australia",
+        "state": true
+      }
+    },
+    {
+      "id": "6",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill de Mo\u00e7ambique",
+        "state": true
+      }
+    },
+    {
+      "id": "7",
+      "type": "agency",
+      "attributes": {
+        "name": "Train & Mobilize - Easy Skill MDG",
+        "state": true
+      }
+    },
+    {
+      "id": "8",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill France INTL",
+        "state": true
+      }
+    },
+    {
+      "id": "9",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Singapore - Teamforge PTE LTD",
+        "state": true
+      }
+    },
+    {
+      "id": "10",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Papua LNG PGK",
+        "state": true
+      }
+    },
+    {
+      "id": "11",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy SKill Papua LNG USD",
+        "state": true
+      }
+    },
+    {
+      "id": "14",
+      "type": "pole",
+      "attributes": {
+        "name": "AUS interco",
+        "state": true
+      }
+    },
+    {
+      "id": "13",
+      "type": "pole",
+      "attributes": {
+        "name": "FR Interco",
+        "state": true
+      }
+    },
+    {
+      "id": "16",
+      "type": "pole",
+      "attributes": {
+        "name": "NC Interco",
+        "state": true
+      }
+    },
+    {
+      "id": "9",
+      "type": "pole",
+      "attributes": {
+        "name": "NSW",
+        "state": true
+      }
+    },
+    {
+      "id": "5",
+      "type": "pole",
+      "attributes": {
+        "name": "PNG Center",
+        "state": true
+      }
+    },
+    {
+      "id": "12",
+      "type": "pole",
+      "attributes": {
+        "name": "PNG Interco",
+        "state": true
+      }
+    },
+    {
+      "id": "3",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le France",
+        "state": true
+      }
+    },
+    {
+      "id": "10",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le Madagascar",
+        "state": true
+      }
+    },
+    {
+      "id": "2",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le NC",
+        "state": true
+      }
+    },
+    {
+      "id": "1",
+      "type": "pole",
+      "attributes": {
+        "name": "Pole Recrutement",
+        "state": true
+      }
+    },
+    {
+      "id": "11",
+      "type": "pole",
+      "attributes": {
+        "name": "Pole Singapore",
+        "state": true
+      }
+    },
+    {
+      "id": "8",
+      "type": "pole",
+      "attributes": {
+        "name": "QLD",
+        "state": true
+      }
+    },
+    {
+      "id": "7",
+      "type": "pole",
+      "attributes": {
+        "name": "QLD & NSW",
+        "state": true
+      }
+    },
+    {
+      "id": "15",
+      "type": "pole",
+      "attributes": {
+        "name": "SG Interco",
+        "state": true
+      }
+    },
+    {
+      "id": "4",
+      "type": "pole",
+      "attributes": {
+        "name": "South Australia",
+        "state": true
+      }
+    },
+    {
+      "id": "6",
+      "type": "pole",
+      "attributes": {
+        "name": "Western Australia",
+        "state": true
+      }
+    }
+  ]
+}

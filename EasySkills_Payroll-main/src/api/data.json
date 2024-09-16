@@ -1,0 +1,1765 @@
+{
+  "meta": {
+      "totals": {
+          "rows": 176
+      },
+      "version": "8.8.0.3",
+      "androidMinVersion": "2.24.0",
+      "iosMinVersion": "2.22.0",
+      "isLogged": true,
+      "language": "en",
+      "timestamp": 1713083857212,
+      "customer": "easy-skill"
+  },
+  "data": [
+      {
+          "id": "1004_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-07-01",
+              "endDate": "",
+              "typeOf": 9,
+              "payrollComments": "With expense deduction from March to be deducted on April expenses $1,137.40",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 11625,
+              "currency": 3,
+              "currencyAgency": 3,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.62,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 83.3838,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "5",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "1",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5793",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "993_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-07-01",
+              "endDate": "",
+              "typeOf": 11,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 9930.3,
+              "currency": 5,
+              "currencyAgency": 5,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.00838,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 68.11344,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "3",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "2",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5801",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "1234_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-06-05",
+              "endDate": "2024-04-04",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 0,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 1,
+              "productionTimes": 3.5,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "2",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "761",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": [
+                      {
+                          "id": "9203",
+                          "type": "timesreport"
+                      }
+                  ]
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1462_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-08-01",
+              "endDate": "",
+              "typeOf": 20,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 1752.25144,
+              "currency": 13,
+              "currencyAgency": 13,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.000205,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 1867.55,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "7",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "819",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5797",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "1164_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-02-18",
+              "endDate": "",
+              "typeOf": 9,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 3500,
+              "currency": 0,
+              "currencyAgency": 10,
+              "exchangeRate": 4166.6666666667,
+              "exchangeRateAgency": 0.00024,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 1867.55,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "7",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "819",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5797",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "1326_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-08-25",
+              "endDate": "",
+              "typeOf": 0,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 4902.3,
+              "currency": 5,
+              "currencyAgency": 5,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.00838,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "3",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "1315",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "997_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-09-01",
+              "endDate": "",
+              "typeOf": 0,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 4500,
+              "currency": 0,
+              "currencyAgency": 0,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 1,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 36.3,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "1",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "3091",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5796",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "1285_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-07-01",
+              "endDate": "",
+              "typeOf": 17,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2709.418334,
+              "currency": 4,
+              "currencyAgency": 4,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 4,
+              "absencesTimes": 1,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "3364",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": [
+                      {
+                          "id": "9327",
+                          "type": "timesreport"
+                      }
+                  ]
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1535_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-04-01",
+              "endDate": "2026-03-31",
+              "typeOf": 9,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 3875,
+              "currency": 3,
+              "currencyAgency": 3,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.62,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "5",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "3392",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1525_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-02-01",
+              "endDate": "2024-06-30",
+              "typeOf": 11,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 4399.5,
+              "currency": 5,
+              "currencyAgency": 5,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.00838,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 12.3605,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "3",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "3492",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": [
+                      {
+                          "id": "5786",
+                          "type": "expensesreport"
+                      }
+                  ]
+              }
+          }
+      },
+      {
+          "id": "1550_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-04-01",
+              "endDate": "2024-04-30",
+              "typeOf": 12,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 3544.74,
+              "currency": 5,
+              "currencyAgency": 5,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.00838,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "3",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "4132",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1548_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-04-03",
+              "endDate": "2024-08-02",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 0,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 1,
+              "productionTimes": 6,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "1",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5284",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": [
+                      {
+                          "id": "9333",
+                          "type": "timesreport"
+                      }
+                  ]
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1547_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-03-31",
+              "endDate": "2024-08-02",
+              "typeOf": 2,
+              "payrollComments": "Envoyer RIB à jour à Orlyse",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2774,
+              "currency": 0,
+              "currencyAgency": 0,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 1,
+              "productionTimes": 6,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "1",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5284",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": [
+                      {
+                          "id": "9333",
+                          "type": "timesreport"
+                      }
+                  ]
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1523_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-02-01",
+              "endDate": "",
+              "typeOf": 18,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 1354.709167,
+              "currency": 4,
+              "currencyAgency": 4,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 9,
+              "absencesTimes": 1,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5501",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": [
+                      {
+                          "id": "9296",
+                          "type": "timesreport"
+                      },
+                      {
+                          "id": "9324",
+                          "type": "timesreport"
+                      }
+                  ]
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "771_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-01-08",
+              "endDate": "2025-01-07",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2000,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5804",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "568_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-02-28",
+              "endDate": "2025-05-07",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 14.9999999998,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5804",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "773_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-01-15",
+              "endDate": "2025-01-14",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2000,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5806",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "571_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-02-28",
+              "endDate": "2025-01-14",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5806",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "797_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-08-29",
+              "endDate": "2024-08-29",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5807",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "701_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-08-29",
+              "endDate": "2024-08-29",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5807",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "772_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-12-15",
+              "endDate": "2024-12-14",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2000,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5953",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "649_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-06-06",
+              "endDate": "2024-12-14",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5953",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "774_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2022-01-14",
+              "endDate": "2025-01-13",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2500,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5954",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "768_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-11-28",
+              "endDate": "2024-11-27",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2000,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5956",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "601_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-04-05",
+              "endDate": "2024-11-27",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5956",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "767_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-11-21",
+              "endDate": "2024-11-20",
+              "typeOf": 16,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2000,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5957",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "604_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2021-04-05",
+              "endDate": "2024-11-20",
+              "typeOf": 10,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 0,
+              "currency": 0,
+              "currencyAgency": 4,
+              "exchangeRate": 3.9984006397,
+              "exchangeRateAgency": 0.2501,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "4",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "5957",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1502_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-01-15",
+              "endDate": "",
+              "typeOf": 9,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 8061,
+              "currency": 0,
+              "currencyAgency": 0,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 1,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "2",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "6078",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1501_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2024-01-15",
+              "endDate": "",
+              "typeOf": 23,
+              "payrollComments": "",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 2916.45,
+              "currency": 15,
+              "currencyAgency": 0,
+              "exchangeRate": 0.19443,
+              "exchangeRateAgency": 1,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "2",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "6078",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      },
+      {
+          "id": "1165_2024-04-01",
+          "type": "appextractpayrollcontract",
+          "attributes": {
+              "startDate": "2023-02-01",
+              "endDate": "",
+              "typeOf": 9,
+              "payrollComments": "April 5 - 26 whole day under Workers Comp",
+              "payrollTerm": "2024-04",
+              "monthlySalary": 11082.5,
+              "currency": 3,
+              "currencyAgency": 3,
+              "exchangeRate": 1,
+              "exchangeRateAgency": 0.62,
+              "productionTimes": 0,
+              "internalTimes": 0,
+              "absencesTimes": 0,
+              "expensesToPay": 0,
+              "expensesAlreadyAdvanced": 0,
+              "canGenerateAdvantages": false
+          },
+          "relationships": {
+              "advantagesToPay": {
+                  "data": []
+              },
+              "agency": {
+                  "data": {
+                      "id": "5",
+                      "type": "agency"
+                  }
+              },
+              "dependsOn": {
+                  "data": {
+                      "id": "6647",
+                      "type": "resource"
+                  }
+              },
+              "timesReports": {
+                  "data": []
+              },
+              "expensesReports": {
+                  "data": []
+              }
+          }
+      }
+  ],
+  "included": [
+      {
+          "id": "5",
+          "type": "agency",
+          "attributes": {
+              "name": "Easy Skill Australia",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "1",
+          "type": "resource",
+          "attributes": {
+              "lastName": "BUSSY",
+              "firstName": "Pierre",
+              "typeOf": 4,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5793",
+          "type": "expensesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "3",
+          "type": "agency",
+          "attributes": {
+              "name": "Easy Skill NC",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "2",
+          "type": "resource",
+          "attributes": {
+              "lastName": "Lorho",
+              "firstName": "Christopher",
+              "typeOf": 4,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5801",
+          "type": "expensesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "2",
+          "type": "agency",
+          "attributes": {
+              "name": "Easy Skill Australia Intl",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "761",
+          "type": "resource",
+          "attributes": {
+              "lastName": "COSTACHE",
+              "firstName": "Marius",
+              "typeOf": 15,
+              "workUnitRate": 11
+          }
+      },
+      {
+          "id": "9203",
+          "type": "timesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "waitingForValidation"
+          }
+      },
+      {
+          "id": "7",
+          "type": "agency",
+          "attributes": {
+              "name": "Train & Mobilize - Easy Skill MDG",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "819",
+          "type": "resource",
+          "attributes": {
+              "lastName": "CROM",
+              "firstName": "Mickael",
+              "typeOf": 4,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5797",
+          "type": "expensesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "1315",
+          "type": "resource",
+          "attributes": {
+              "lastName": "DEVEDEUX",
+              "firstName": "Remy",
+              "typeOf": 2,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "1",
+          "type": "agency",
+          "attributes": {
+              "name": "Easy Skill France",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "3091",
+          "type": "resource",
+          "attributes": {
+              "lastName": "FREYCHET",
+              "firstName": "Emma-Jane",
+              "typeOf": 12,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5796",
+          "type": "expensesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "4",
+          "type": "agency",
+          "attributes": {
+              "name": "Easy Skill PNG Limited",
+              "workUnitRate": 1
+          }
+      },
+      {
+          "id": "3364",
+          "type": "resource",
+          "attributes": {
+              "lastName": "KILI",
+              "firstName": "Jothen",
+              "typeOf": 3,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "9327",
+          "type": "timesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "waitingForValidation"
+          }
+      },
+      {
+          "id": "3392",
+          "type": "resource",
+          "attributes": {
+              "lastName": "LEGAULT",
+              "firstName": "Benjamin",
+              "typeOf": 14,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "3492",
+          "type": "resource",
+          "attributes": {
+              "lastName": "LEFORT",
+              "firstName": "Cécile",
+              "typeOf": 7,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5786",
+          "type": "expensesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "4132",
+          "type": "resource",
+          "attributes": {
+              "lastName": "HUMUNI",
+              "firstName": "Cédrick",
+              "typeOf": 14,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5284",
+          "type": "resource",
+          "attributes": {
+              "lastName": "KOUSSOU",
+              "firstName": "Erik",
+              "typeOf": 14,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "9333",
+          "type": "timesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "5501",
+          "type": "resource",
+          "attributes": {
+              "lastName": "MALU",
+              "firstName": "Victoria",
+              "typeOf": 7,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "9296",
+          "type": "timesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "validated"
+          }
+      },
+      {
+          "id": "9324",
+          "type": "timesreport",
+          "attributes": {
+              "term": "2024-04",
+              "state": "savedAndNoValidation"
+          }
+      },
+      {
+          "id": "5804",
+          "type": "resource",
+          "attributes": {
+              "lastName": "BAUTISTA",
+              "firstName": "Paul",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5806",
+          "type": "resource",
+          "attributes": {
+              "lastName": "RAMOS",
+              "firstName": "Ulysses",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5807",
+          "type": "resource",
+          "attributes": {
+              "lastName": "TORIBIO",
+              "firstName": "Kenneth",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5953",
+          "type": "resource",
+          "attributes": {
+              "lastName": "DEGSI",
+              "firstName": "Leoncio",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5954",
+          "type": "resource",
+          "attributes": {
+              "lastName": "CAMPRA",
+              "firstName": "Luca",
+              "typeOf": 13,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5956",
+          "type": "resource",
+          "attributes": {
+              "lastName": "BADAY",
+              "firstName": "Theodore",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "5957",
+          "type": "resource",
+          "attributes": {
+              "lastName": "BADAY",
+              "firstName": "Welver",
+              "typeOf": 18,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "6078",
+          "type": "resource",
+          "attributes": {
+              "lastName": "MARTINE",
+              "firstName": "Jonathan",
+              "typeOf": 4,
+              "workUnitRate": "notUsed"
+          }
+      },
+      {
+          "id": "6647",
+          "type": "resource",
+          "attributes": {
+              "lastName": "Ramanah",
+              "firstName": "Jay",
+              "typeOf": 4,
+              "workUnitRate": "notUsed"
+          }
+      }
+  ]
+}

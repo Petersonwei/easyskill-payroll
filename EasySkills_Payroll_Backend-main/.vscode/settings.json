@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "eslint.run": "onType",
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.format.enable": true,
+  "[javascript][javascriptreact][typescript][typescriptreact][vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  }
+}

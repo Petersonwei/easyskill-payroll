@@ -1,0 +1,3391 @@
+{
+  "meta": {
+    "totals": {
+      "rows": 49
+    },
+    "solr": true,
+    "version": "8.8.0.3",
+    "androidMinVersion": "2.24.0",
+    "iosMinVersion": "2.22.0",
+    "isLogged": true,
+    "language": "en",
+    "timestamp": 1713233494370,
+    "customer": "easy-skill"
+  },
+  "data": [
+    {
+      "id": "14472",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "BRUNO",
+        "lastName": "MOUGENOT",
+        "creationDate": "2023-07-27T14:10:49+0200",
+        "updateDate": "2024-04-15T17:01:14+0200",
+        "reference": "BMO - Payment in USD for both contracts",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_14472_3d909a144e8dceb6293175eb51b09c2485327f9c",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Lead Superintendent",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 494,
+        "email1": "mougenotb@yahoo.fr",
+        "email2": "bruno.mougenot@egis-group.com",
+        "email3": "",
+        "phone1": "+62811905420",
+        "phone2": "",
+        "currency": 12,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "C.A.P. \u2013 B.E.P. Topography - Geometrician School in Nancy",
+          "1990 - Diploma of Site Manager, Industrial Buildings and Concrete Art Work - C.F.C. EGLETON",
+          "Auto CAD 2004, Training - The Cairo\nAmerican School",
+          "2011 - Vinci\nmain office"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "53562",
+            "title": "Geometrician",
+            "description": "to\nGeometrician, Nuclear Factory / Cattenom, France"
+          },
+          {
+            "id": "53563",
+            "title": "Head of Topography",
+            "description": "to\nHead of Topography / Cattenom, France"
+          },
+          {
+            "id": "53564",
+            "title": "Geometrical Technician",
+            "description": "to\nGeometrical Technician, \u00ab TURKWEL \u00bb project / Kenya (very remote area) - Africa"
+          },
+          {
+            "id": "53565",
+            "title": "Geometrical Technician",
+            "description": "to\nGeometrical Technician, Earth works / Eleme, Nigeria (remote area)"
+          },
+          {
+            "id": "53566",
+            "title": "Concrete Engineer",
+            "description": "to\nConcrete Engineer \u2013 Petrochemical factory / Eleme, Nigeria (remote area)"
+          },
+          {
+            "id": "53567",
+            "title": "Field Manager",
+            "description": "to\nField Manager \u2013 subway project / Cairo, Egypt"
+          },
+          {
+            "id": "53568",
+            "title": "Main Field Manager",
+            "description": "to\nMain Field Manager \u2013 tunnel project / Berlin (Spreeboggen), Germany"
+          },
+          {
+            "id": "53569",
+            "title": "Field Engineer \u2013 tunnel project",
+            "description": "to\nField Engineer \u2013 tunnel project / Al-Azhar, Cairo, Egypt"
+          },
+          {
+            "id": "53570",
+            "title": "Site Manager",
+            "description": "to\nSite Manager, railway project / Frankfurt \u2013 Cologne - Germany"
+          },
+          {
+            "id": "53571",
+            "title": "Site Manager",
+            "description": "to\nSite Manager, Airport Project, Ujung Pandang, Indonesia (remote area)"
+          },
+          {
+            "id": "53572",
+            "title": "",
+            "description": "SPIE\nto\nInternational construction company \u2013 France Base Company"
+          },
+          {
+            "id": "53573",
+            "title": "SUPERINTENDENT",
+            "description": "SUPERINTENDENT\nto / ALSTOM TRANSPORT / Circle Line Project\nSingapore\nAlstom is a world wide energy and transportation company. Specialist in train, hight speed train,\nand MRT, power station as well."
+          },
+          {
+            "id": "53574",
+            "title": "Superintendent",
+            "description": "to\nSuperintendent, Raduga Commercial Center\nSt. Petersburg \u2013 Russia"
+          },
+          {
+            "id": "53575",
+            "title": "Superintendent",
+            "description": "to\nSuperintendent, Power Station in Ca Mau\nVietnam (remote area extreme south of Vietnam)"
+          },
+          {
+            "id": "53576",
+            "title": "Superintendent",
+            "description": "to\nSuperintendent, VTV Centre Hanoi (Vietnamese TV)\nHanoi, Vietnam"
+          },
+          {
+            "id": "53577",
+            "title": "Superintendent",
+            "description": "to\nSuperintendent, Metro of Alger\nUnder ground METRO (MRT)"
+          },
+          {
+            "id": "53578",
+            "title": "Superintendent, GO and masonry",
+            "description": "to\nSuperintendent, GO and masonry Dahlak Resort Project\nDahlak, Erythrea (east Africa) very remote area"
+          },
+          {
+            "id": "53579",
+            "title": "Site Manager",
+            "description": "to\nSite Manager, Utility tunnel project / Qatar Doha\nResponsible for construction of tunnel and managing sub-contractors."
+          },
+          {
+            "id": "53580",
+            "title": "World leader in constructions",
+            "description": "VINCI CONSTRUCTION GRAND PROJECT\nto\nWorld leader in constructions \u2013 France base company"
+          },
+          {
+            "id": "53581",
+            "title": "TECHNICAL ADVISOR",
+            "description": "TECHNICAL ADVISOR\nto / Mahessa\nCompany with power distribution background, contract power station, civil work includes.\nTechnical advisor for all civil work matters and marine jetty.sub contractor consultations,\nCost estimation."
+          },
+          {
+            "id": "53582",
+            "title": "CONSTRUCTION MANAGER",
+            "description": "CONSTRUCTION MANAGER\nto / Pt Atlas Ressources Indonesia\nConstruction manager in charge of hauling road, bridges, infrastructure, port.\nManaging survey teams, coordination with design office, soil investigation, contractors."
+          },
+          {
+            "id": "53583",
+            "title": "CONSTRUCTION MANAGER",
+            "description": "CONSTRUCTION MANAGER\nto / IOTA Indonesia\nIn charge of all preliminary work of PT WBN mining in Halmahera.\nIn parallel following of 2 subcontractors in charge of all geotechnical investigation for all the\nmining site. Part of for the design of the mining area (conveyor, crusher) and for the design of all\nthe plant. Extrusion of NIKEL."
+          },
+          {
+            "id": "53584",
+            "title": "Responsible of some geotechnics",
+            "description": "CONSTRUCTION OF MY RESORT IN BALI\nto\n7 bungalows, restaurant, pool and diving center 100 % done design and build.\nThe resort is now open.\nResponsible of some geotechnics work in Banda Aceh for some hydro power project.\nPart time work."
+          },
+          {
+            "id": "53585",
+            "title": "HEAD CONSTRUCTION MANAGER",
+            "description": "HEAD CONSTRUCTION MANAGER COLAS RAIL ASIA\nto\nIn charge of all the construction aspect of 17, 5 km of railways, LRT Bombardier system."
+          },
+          {
+            "id": "53586",
+            "title": "GENERAL MANAGER",
+            "description": "GENERAL MANAGER IN MANGGIS DIVE RESORT\nto\nOwner and operator of a 9 bungalows resort and dive center, we dive all BALI include technical\ndive."
+          },
+          {
+            "id": "53587",
+            "title": "TRACKWORK AND THIRD RAIL SENIOR CONSTRUCTION MANAGER",
+            "description": "TRACKWORK AND THIRD RAIL SENIOR CONSTRUCTION MANAGER\nto / LRT JABODEBEK JAKARTA COLAS\nRAIL ASIA\nPreparation of the construction phase ; establish the yard, nerve center of the project including its\ngeneral arrangement ; supervision of the construction phase ; handing over of the lines."
+          },
+          {
+            "id": "53588",
+            "title": "GENERAL MANAGER",
+            "description": "GENERAL MANAGER MANGGIS DIVE RESORT / DIVE INSTRUCTOR\nto\nThe activity has been correct until March then COVID 19 with the closure of Bali push us to close\nthe resort for a while."
+          },
+          {
+            "id": "53589",
+            "title": "TRACKWORK AND CONDUCTOR RAIL SPECIALIST LRT3",
+            "description": "TRACKWORK AND CONDUCTOR RAIL SPECIALIST LRT3\nto / Kuala Lumpur MRCB\nFollowing the different subcontractor during the construction of the 43 km double track. Concrete\nplinths. Readjusting the schedule ,assistance on the method statement,daily and weekly meeting."
+          }
+        ],
+        "languages": [
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "bahasa",
+            "level": ""
+          },
+          {
+            "language": "arabic",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14504",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Ryan C",
+        "lastName": "Rueda",
+        "creationDate": "2023-08-02T03:42:36+0200",
+        "updateDate": "2024-04-15T17:00:53+0200",
+        "reference": "RRU - Payment in USD for both contracts",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Lead Environmental Specialist",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 131.5526,
+        "email1": "ryan_c_rueda@yahoo.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "",
+        "phone2": "+63915 8892505 (PH)",
+        "currency": 1,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14639",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Kirill",
+        "lastName": "TUSHIN",
+        "creationDate": "2023-08-14T08:41:42+0200",
+        "updateDate": "2024-04-15T17:00:07+0200",
+        "reference": "KTU - Payment in USD",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_14639_883a72c751bd61d7781c65ddc9199ad841bd41a0",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Project Manager",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 180.89733,
+        "email1": "ktspans@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+61431276001",
+        "phone2": "",
+        "currency": 12,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [
+          {
+            "id": "53898",
+            "title": "Project manager - VINCI Group - 06/2008 - 12/2009",
+            "description": "replacement of the post-tensioning system\ninstallation of stay-cabled roof for the ice arena\ninstallation of cable-stayed"
+          },
+          {
+            "id": "53899",
+            "title": "Deputy Project Director - VINCI Group - Vladivostok - 01/2010 - 09/2012",
+            "description": "coordination of all project activities\nworking closely with the customer, government agencies, suppliers"
+          },
+          {
+            "id": "53900",
+            "title": "Business development manager - VINCI Group - 10/2012 - 12/2013",
+            "description": "cable-stayed systems\nsigning contracts\nmaking the branch self-sufficient\nnegotiation and signing of the company's largest contract"
+          },
+          {
+            "id": "53901",
+            "title": "Project Director - Strandeck LLC - 06/2014 - 07/2015",
+            "description": "installation of bonded and unbounded system, reinforcement and formwork\ndesign of pt part of the project"
+          },
+          {
+            "id": "53902",
+            "title": "Managing Director of a branch office - Strandeck LLC - 06/2014 - 09/2017",
+            "description": "value engineering-based marketing\nredesign of current building\ndesign solutions with application of post-tensioning systems\ncommercial work, signing contracts\nprocurement\nstrategic development\nsupervision after projects of the group of companies"
+          },
+          {
+            "id": "53903",
+            "title": "Project Director - VINCI Group - 09/2019 - 05/2020",
+            "description": "launching the first company\u2019s project\nsetting up the company\u2019s branch office\nbudgeting, cashflow and payment\u2019s system control\ntrial area completion and start of production\ncontract management\nprogramming\nstakeholder management"
+          },
+          {
+            "id": "53904",
+            "title": "Project Director - VINCI Group - 05/2019 - 09/2021",
+            "description": "launching and leading a project with two construction sites\nmobilization of people/ equipment/ materials\nhiring/onboarding of personnel\ncontract management\nbudgeting\nsetting up team\u2019s accommodation\nprocurement and supply management\nsecurity as one of the most critical management aspects\nstakeholder management"
+          },
+          {
+            "id": "53905",
+            "title": "Project Director - VINCI Group - 11/2017 - 05/2019",
+            "description": "onboarding\nset up policies, rules, and procedures in a team from scratch\nbudgeting, cost control, cashflow management\nsecurity management\nprocurement and subcontractor\u2019s supervision"
+          },
+          {
+            "id": "53906",
+            "title": "Project Director - VINCI Group - 11/2021 - 01/2023",
+            "description": "launching and leading the project from scratch\nmobilization of people, equipment, materials\nhiring/onboarding of personnel whether expats/locals/nationals\ncost control and cashflow follow up\nset up offices/yard\nsetting up execustion methods\nsetting up engineering and qaqc system\nsetting up complete construction cycle\nreporting to the client and steercom\nprocurement/logistics"
+          }
+        ],
+        "languages": [
+          {
+            "language": "russian",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "french",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14819",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Kaupa Marc",
+        "lastName": "Kilau",
+        "creationDate": "2023-08-29T17:01:59+0200",
+        "updateDate": "2024-04-15T16:59:16+0200",
+        "reference": "MKA - PNG Portion to be paid in PGK & SIN portion in USD",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "HSE Supervisor",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 225,
+        "email1": "kaupakilau@yahoo.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+61410917645",
+        "phone2": "",
+        "currency": 12,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2008 - Diploma of Occupational Health and Safety - Swinburne\nUniversity of Technology",
+          "2008 - Diploma of Fire Technology - Swinburne University of Technology",
+          "2007 - Certificate IV in Science - Swinburne University of Technology",
+          "2007 - First Aid-Level 2 Senior - Swinburne University of Technology",
+          "2007 - Certificate IV-Fire Technology - Swinburne University of Technology"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "54595",
+            "title": "Apprentice Fire protection Senior First aid certificate - Sika Fire Protection - 02/1995 - 11/1998",
+            "description": "-\nApprentice Fire protection\nSika Fire Protection, Port Moresby, PNG\n1\nService and installation of portable fire extinguishers, fire\nblankets, hose reel and kitchen suppression systems\n2\nWeekly testing and repair of sprinkler systems\n3\nSprinkler and hydrant installation AWARDS RECEIVED\n1\nSenior First aid certificate from St John Ambulance\n2 Credit Award for Australia Mathematics Competitions."
+          },
+          {
+            "id": "54596",
+            "title": "Senior Sales & Service Consultant - Sika Fire Protection - 01/1999 - 12/2003",
+            "description": "- Senior Sales & Service Consultant.\nSika Fire Protection, Port Moresby, PNG\nNature of Organisation-The largest fire protection company in PNG\nspecialised in sales, installation, service, inspection, and repair of all fire\nprotection equipment.\nResponsibilities\n10 Supervision service staff (4)\n11 Bill of quantities/estimation for repair, new installation and\nupgrading of fire equipment\n12 Organise service and installation job with clients\n13 Carry out six monthly service/inspection, repair and installations\nof portable fire extinguisher, fire blankets, kitchen suppression\nsystems, and hose reel to As standard\n14 Conducts weekly testing of automatic sprinkler and hydrant\npumps (diesel & electric)\n15 Conducts annual testing, inspection and repair fire suppression\nsystems of haul trucks and shovel in mining.\n16 Sales of fire protection to major clients ($200,000 per annum)\n17 Purchasing of materials for hardware for jobs\n18 Coordinate service for Highlands\u2019s region clients from Port\nMoresby."
+          },
+          {
+            "id": "54597",
+            "title": "Fire Protection - Ok Tedi Mining Ltd - Tabubil - 12/2003 - 01/2004",
+            "description": "-\nFire Protection/Sprinkler Maintenance Technician\n4thOct\nOk Tedi Mining Ltd, Tabubil, PNG\nNature of Organisation-PNG largest world class mining gold and copper\ncompany with annual revenue of Aud$ 1billion dollars.\nResponsibilities\n1\nManage fire sprinkler, deluge and hydrant pump systems at 3"
+          },
+          {
+            "id": "54598",
+            "title": "Snr Sales and Service Tech - Sika Fire Protection - 10/2004 - 12/2005",
+            "description": "- Snr Sales and Service Tech\nSika Fire Protection, Port Moresby, PNG\nNature of Organisation-The largest fire protection company in PNG\nspecialised in sales, installation, service, inspection and repair of all fire\nprotection equipment.\nResponsibilities\n1\nSupervision service staff (4)\n2\nBill of quantities/estimation for repair, new installation and\nupgrading of fire equipment\n3\nOrganise service and installation job with clients\n4\nCarry out six monthly service/inspection, repair and installations\nof portable fire extinguisher, fire blankets, kitchen suppression\nsystems, and hose reel to As standard\n5\nConducts weekly testing of automatic sprinkler and hydrant\npumps (diesel & electric)\n6\nConducts annual testing, inspection and repair fire suppression\nsystems of haul trucks and shovel in mining.\n7\nSales of fire protection to major clients ($200,000 per annum)\n8\nPurchasing of materials from hardware for jobs\n9\nCoordinate service for Highlands\u2019s region clients from Port\nMoresby."
+          },
+          {
+            "id": "54599",
+            "title": "Fire Protection Inspector/tester - AESM - Melbourne - 10/2008 - 10/2008",
+            "description": "-Fire Protection Inspector/tester\nAESM (Australian Essential services Maintenance)\nMelbourne, VIC, Australia.\nNature of the organisation-The company specialise in service and\nmaintenance of essential services in building throughout Victoria\nstate especially fire protection systems.\nResponsibilities\n1. Conducts weekly testing of, residential sprinkler, automatic\nsprinkler and hydrant pumps (diesel & electric) at 40 locations within\nMelbourne city. Areas includes commercial building, schools,\nresidential building, shopping centres and aged care building\n2. Reports any defects for rectification\n3. Inspect new contracts sites."
+          },
+          {
+            "id": "54600",
+            "title": "Advisor/Administrator - S.H. E - 08/2009 - 11/2010",
+            "description": "24th -\nS.H. E Advisor/Administrator"
+          },
+          {
+            "id": "54601",
+            "title": "Safety Advisor - ExxonMobil - 01/2011 - 09/2012",
+            "description": "5th -\nSafety Advisor\nExxonMobil, PNGLNG Project\nResponsibilities:\n1. Safety Inspection on jobs and contractors on site\n2. Manage & Coordinates Safety data\n3. Conducts JSA Inspections\n4. Conducts Toolbox meeting\n5. Assist team with issues regarding construction.\n6. Liaise with the Project contractor and subcontractors\n7. Assist safety interns on field"
+          },
+          {
+            "id": "54602",
+            "title": "Fire Protection Technician - Perth - 04/2012 - 12/2015",
+            "description": "3rd -\nFire Protection Technician-Perth\nGlobal electrotech\nPerth, WA Australia.\nNature of the organisation-The company specialise in service and\nmaintenance of essential services in building throughout WA state\nespecially fire protection systems.\nResponsibilities\n1. Conducts weekly testing of, residential sprinkler, automatic sprinkler\nand hydrant pumps (diesel & electric) at 40 locations within Melbourne\ncity. Areas includes commercial building, schools, residential building,\nshopping centres and aged care building\n2. Reports any defects for rectification\n3. Inspect new contracts sites."
+          },
+          {
+            "id": "54603",
+            "title": "Fire Protection Tech - AESM - 02/2016 - 12/2022",
+            "description": "-Dec 2022\nFire Protection Tech\nAESM, Ferntree gully, VIC, Australia\nResponsibilities\n1\nRoutine testing of fire sprinkler systems and pump sets\n2\nFlow testing of automatic fire sprinkler system using electronic ultrasonic\nequipment\n3\nSubmission of defective for rectification"
+          },
+          {
+            "id": "54604",
+            "title": "Current Divisional Manager - ODG - 02/2022 - 02/2022",
+            "description": "-Current Divisional Manager, ODG, Port Moresby, PNG\nResponsibilities.\n1\nCurrent role as Divisional Manager, manage service division in two locations, Port\nMoresby & Lae with 2 x service manager & engineering manager and over 10 x\nservice technician including service coordinator. Services includes fire, water, AC,\ngenerator, domestic pumps, and refrigeration.\n2\nNegotiate and renew service contracts work.\n3\nProvision of monthly reports to directors\n4\nnegotiate with clients for aged accounts."
+          }
+        ],
+        "languages": [
+          {
+            "language": "english",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15472",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "SRAVAN",
+        "lastName": "LINGAMPALLY",
+        "creationDate": "2023-10-27T03:58:05+0200",
+        "updateDate": "2024-04-15T16:56:03+0200",
+        "reference": "EGI-SLI - Paid in USD",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_15472_36418571279b8d32e5560159d5b9277e331c20de",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Senior Master Planner",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "lsravanrao@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+221771227524",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2021 - MBA: Construction Project - RICS",
+          "2013 - Bachelors: - JNTU Hyderabad"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "56508",
+            "title": "",
+            "description": "GET\n-\nGVR INFRA PROJECTS LTD\n\u2022 Project: Ajmer- Nagaur Section of NH-89 from (Km0/000 to Km\n161/000) in the State Of Rajasthan through Public-Private Partnership\n(PPP) on a DBFOT basis.\nRoles and Responsibility:\n\u2022 Preparing DPR, RFI, and updating Strip chart as per DPR & Client\nCertification\n\u2022 Maintaining Daily Labor Report, Daily Stock Report, and Daily\nMachinery report\n\u2022 Preparing Daily progress report including weekly Planning Vs\nAchievement."
+          },
+          {
+            "id": "56509",
+            "title": "Jr. Planning Engineer",
+            "description": "Jr. Planning Engineer\n-\nNagarjuna Construction Company Limited (NCC Ltd)\n\u2022 Project: Development of Etawah to Kannauj (115+500 to 172+500 (57\nkm)) Access Controlled Expressway (Greenfield) project in the state of\nUttar Pradesh on EPC Basis,\nRoles and Responsibility:\n\u2022 Preparation of schedules, Micro Schedule for the execution of work\n\u2022 Monitor day-to-day work progress and prepare the daily, weekly, and\nmonthly progress report and prepare the planned Vs actual\n\u2022 Preparing S - Curve Drawing with relation to Monthly Invoice to the\nCumulative Invoice\n\u2022 Preparing Monthly targets to Sub Contractors & Site Execution Team"
+          },
+          {
+            "id": "56510",
+            "title": "Sr. Planning Engineer",
+            "description": "Sr. Planning Engineer\n-\nLarsen & Toubro, LLC, (Oman)\n\u2022 Project: Oman Botanical Garden\n\u2022 Project: Al Sharqiyah Expressway Part -2A (1+900 to 78+000 Km)\nRoles and Responsibility:\n\u2022 Preparation of Construction programs Cl-14 with Cost & Resource"
+          },
+          {
+            "id": "56511",
+            "title": "Sr. Planning Engineer",
+            "description": "Sr. Planning Engineer\n\u2013\nAfcons Infrastructure Ltd (Gabon)\n\u2022 Project: Transgabonaise National Road from KP 24 to KP 105 in the\npublic of Gabon.\n\u2022 Project: GSEZ Libreville Airport Project, EPC Contract\nRoles and Responsibility:\n\u2022 Overseeing and ensuring plans and schedules are up to date and\nwithin the timeframe\n\u2022 Calculating the Material, Machinery, and Manpower for the project\nrequired through the baseline schedule\n\u2022 Maintaining Crusher production and Machinery productivity\n\u2022 Maintaining the delay log for delay analysis\n\u2022 Perform the Delay analysis for EOT submission\n\u2022 Prepare a Prolongation Claim for EOT"
+          },
+          {
+            "id": "56512",
+            "title": "Sr. Planning Engineer",
+            "description": "Sr. Planning Engineer -till\nArezki Group (Senegal & Gambia)\n\u2022 Project: Travaux de rehabilitation de la route Senoba -PK 40\n\u2022 Project: Travaux de Construction du Salon Pr\u00e9sidentiel VVIP de\nl'a\u00e9roport international de Banjul.\n\u2022 Project: Construction of 5 buildings including hotel, apartment, and\noffice space.\nRoles and Responsibility:\n\u2022\nPrepare Baseline Construction schedule in Oracle Cloud Primavera.\n\u2022\nAnalysis the Monthly Productivity of machinery based on the actual\nworking hours and planned.,\n\u2022\nPro-actively follow up on any issue\u2019s impacting the project schedule.\n\u2022\nTo generate executive summary reports for higher management.\n\u2022\nSupport in producing extension of time and prolongation claims by\nproviding the required primavera program to support our\nsubmissions."
+          }
+        ],
+        "languages": [
+          {
+            "language": "hindi",
+            "level": ""
+          },
+          {
+            "language": "telugu",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "german",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15503",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Buala Gryant Doklas",
+        "lastName": "Telaumbanua",
+        "creationDate": "2023-10-30T07:30:40+0100",
+        "updateDate": "2024-04-15T16:55:23+0200",
+        "reference": "BTE - Paid in USD",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_15503_b2769a111e4459119b944c31131d2a373d5870b1",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "QA / QC Lead",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "doklas.telaumbanua@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+6282186952996",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 4,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15996",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "DEVI",
+        "lastName": "MEITIA SHOLEHA",
+        "creationDate": "2023-12-27T14:08:15+0100",
+        "updateDate": "2024-04-15T16:55:02+0200",
+        "reference": "ESEGI-DSH - Paid in USD",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_15996_67dbd35c281bc3a9ff7f41d21e6a2beeef1f5b24",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Cost Control Engineer",
+        "availability": "2027-01-31",
+        "realAvailability": "2027-01-31",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "devimeitias@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+6281259301230",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2017 - Bachelor of Science - GPA 3.5 (Civil/Marine Engineer) - INSTITUT TEKNOLOGI BANDUNG"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "57883",
+            "title": "Teaching Assistant",
+            "description": "Civil/Marine Engineering Institut Teknologi Bandung \u2013 Bandung, Indonesia\nTeaching Assistant (- )\n\u25cf Help teacher with record keeping such as tracking attendance and calculating grades\n\u25cf Help supervise students in class and labor atory"
+          },
+          {
+            "id": "57884",
+            "title": "Engineering Intern",
+            "description": "PT Pembangunan Perumahan \u2013 Jakarta, Indonesia\nEngineering Intern (- )\nProject:\n- New Priok Container Terminal One - NPCT1\nThe NPCT-1 is part of the first stage of the North Kalibaru Terminal development. The project\nincludes the construction of a 32-hectare facility space, an 850 m container quay with a pool\ndepth of -16 m LWS and a capacity of 1.5 million TEU.\nDuties and Responsibilities :\n\u25cf Fulfill tasks set out by supervisors\n\u25cf Perform research as a supervisor\u2019s request\n\u25cf Analyze construction method of sand bund and reclamation project of New Priok Container\nYard"
+          },
+          {
+            "id": "57885",
+            "title": "QAQC Engineer",
+            "description": "MENARD ASIA \u2013 Jakarta, Cilegon, Indonesia\nQAQC Engineer (- )\nProject:\n- PT Krakatau Steel Harbour Stockyard\nThe soil condition consists of backfilling from the steel factory that is containing slack and\nboulders from the top platform to the depth of 7 m. Furthermore, from the depth of 7 to 20 m,\nthere is a layer of sand to lose sand and soft clay. The solution is the application of a Controlled\nModulus Column with a diameter of 420 mm using rebar and steel cages to protect existing\nstructures.\nDuties and Responsibilities :\n\u25cf Set up the QAQC plan for project, undertaking and prepare all relevant drawing\n/production layout / as built drawing\n\u25cf Put in application on site all rules previously defined and link with production team to\nimprove the production based on the data report\n\u25cf Prepare on daily basis the site daily report and monitor/organize quality data from machinery\n\u25cf Responsible to perform and monitor crush test for mortar\n\u25cf Prepare, conduct, and write all testing report (PLT, soil test)\n\u25cf Liaise with the client to set up boundary\u2019s location/ treatment area/ pegging point\n\u25cf Undertaking and prepare internal QAQC assessments and implementing \u201cproactive\u201d\ncontrol measures at place of work\n\u25cf Report to Project Manager for any production problem, mortar consumption, drain\nconsumption, any material consumption"
+          },
+          {
+            "id": "57886",
+            "title": "Engineer",
+            "description": "MACMAHON Mining Services \u2013 Tapanuli Selatan, Indonesia\nTailings Storage Facility (TSF) Engineer (- )\nProject:\n- Martabe Gold Mine\nThe Martabe Gold Mine utilizes the open pit method of gold and silver mining, where the pits are\nkept shallow due to the hilly topography. Three pits are currently operational: the Ramba Joring\nPit, the Barani Pit and the Purnama Pit, which began operations in 2018, 2016 and 2011\nrespectively. The surrounding area includes native forest, rubber, and oil palm plantations with\nnearby rural villages. Waste rock or overburden from the pits is placed in the Tailings Storage\nFacility (TSF) embankment rather than in waste dumps as is the case in most other mines.\nDuties and Responsibilities :\n\u25cf Investigate all appropriate equipment related safety and environmental incidents and\nimplement actions\n\u25cf Oversee day by day operations of the TSF to achieve optimized plant utilization and\ncompliance to operating procedures, strategies, and instructions\n\u25cf Attend shift supervisor handover meeting, clarify plant tatus, and challenge supervisors on\nperformance against operating systems compliance and delivery of instructions\n\u25cf Build relations with maintenance, mining engineering, commercial team, projects, and\noperational personnel\n\u25cf Provide support for data request from client (PT Agincourt Resources) and consultant (Knight\nPiesold)\n\u25cf Liaise with the client and consultant to ensure the quality of material, design, and soil test"
+          },
+          {
+            "id": "57887",
+            "title": "Contractor Senior Supervisor",
+            "description": "THIESS Contractor Indonesia \u2013 Kalimantan Timur & Kalimantan Selatan,\nIndonesia\nCost Control Engineer (\u2013 )\nProject:\n- Kapuas Coal Mine\nThiess scope of works for this project are establish own workshop, mining office, camp, and\nestablish mining operations, perform mining activities in accordance with the production\nschedule for 2 clients (Kapuas Tunggal Persada and Gunung Bara Mining), coal hauling and\nhaul road maintenance approximately 200 km distance.\n- Gunung Bara Utama Coal Mine\nThiess scope of works for this project are establish own workshop and satellite mining office,\nestablish mining operations, perform mining activities in accordance with the production\nschedule, coal haulage to pit ROM Stockpile approximately 3 km distance. \u25cf Developing a work schedule involves creating a plan that outlines tasks, timelines, and resources\nneeded to complete a project\n\u25cf Review and maintain Work Breakdown Structures(WBS) and Cost Breakdown Structures (CBS)\n\u25cf Assist the Senior Supervisor Commercial in quarterly budgeting/forecasting\n\u25cf Establish baseline budgets for hours and cost capture\n\u25cf Liaise with procurement, finance and time-capture functions and third pasties as required, to ensure\naccurate and timely capture of procurement, materials, subcontract and labour manhour costs\n\u25cf Ensure costs are allocated accurately in accordance with approved project WBS\n\u25cf Monitor operational budget in business activity in the company based on the regular budget that\nhas been made to ensure the activity of the company in accordance with the company's business\nobjectives\n\u25cf Manage all aspects of day to day, weekly and monthly financial project requirements\n\u25cf Analyze productivity of equipment such as hauling, loading and ancillary productivity\n\u25cf Provide support for data request from client under discussion with Senior Supervisor\nCommercial and Project Manager\n\u25cf Analyze invoices to ensure correct products/services were received at the expected cost\n\u25cf Maintain site records for invoice back up to financial payment\n\u25cf Manage the preparation of invoices to clients in a timely and accurate manner with all necessary\nsupport documents\n\u25cf Identify opportunities for cost savings and efficiency improvements without compromising the quality\nor scope of projects\n\u25cf Prepares requests for proposals for procurement, write and edit scopes of work, determine\napproach to use in structuring the RFP/RFQ and scope of work and coordination with the\ncontract team\n\u25cf Analyzing and maintaining internal operation requirement and facilities such light vehicle\narrangements, ticketing for employee field break, consumption (pack meals), hotel in transit\n(accommodation)\n\u25cf Manage and control camp/service and IT daily activity"
+          },
+          {
+            "id": "57888",
+            "title": "Procurement Business Excellence",
+            "description": "NUSA HALMAHERA MINERAL \u2013 Jakarta, Indonesia\nProcurement Business Excellence (\u2013 )\nProject:\n- Gosowong Gold Mine\nGosowong Gold Mine is actively conducting mining activities on its two underground production\nareas; Kencana, and Toguraci, by combining the mining methods of Cut & Fill, and Stoping. The\nKencana underground mine has been operational since June 2005. The mine uses a\ncombination of Overhand and Underhand Cut & Fill underground mining methods. Toguraci has\nits unique characteristic not found in underground mines at other locations. That is the existence\nof geothermal hot springs in the mine, which can reach temperatures up to 80 degrees Celsius.\nDuties and Responsibilities :\n\u25cf Developing procurement strategies that are inventive and cost-effective.\n\u25cf Sourcing and engaging reliable suppliers and vendors\n\u25cf Negotiating with suppliers and vendors to secure advantageous terms\n\u25cf Reviewing existing contracts with suppliers and vendors to ensure on-going feasibility\n\u25cf Reviewing, comparing, analyzing, and approving products and services to be purchased\n\u25cf Maintaining and updating supplier information such as qualifications, delivery times, etc\n\u25cf Maintaining good supplier relations and negotiating contracts"
+          }
+        ],
+        "languages": [
+          {
+            "language": "bahasa indonesia",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16028",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Isidro Cruz",
+        "lastName": "Oliveros",
+        "creationDate": "2024-01-10T06:27:52+0100",
+        "updateDate": "2024-04-15T16:54:39+0200",
+        "reference": "ESVIN-IOL - Paid in Euro",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Crane Operator",
+        "availability": "2024-06-16",
+        "realAvailability": "2024-06-16",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "isidrocruzoliveros@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+639755060697",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 3,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15861",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "HO",
+        "lastName": "DUC HUY",
+        "creationDate": "2023-12-01T07:03:41+0100",
+        "updateDate": "2024-04-15T16:54:18+0200",
+        "reference": "ESEGI-HHU - Paid in Euro",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_15861_542e33a528a042d5686708c600b096ce23b61a2a",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "HSE Advisor",
+        "availability": "2025-05-02",
+        "realAvailability": "2025-05-02",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "huyhoduckh@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+84979167009",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [
+          {
+            "id": "57597",
+            "title": "HSE Department",
+            "description": "\u2756 From to\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: Maharaja Lela South Project\n\u25aa\nClient\n: Total E&P Borneo B.V\n\u25aa\nWorking Location\n: Muara yard, Muara - Brunei\n\u25aa\nProject job title\n: Deputy Project HSE Manager\n\u25aa\nDuties and responsibilities:\nOnshore fabrication phase:\n-\nAssist Project HSE Manager to develop and set up the project HSE management\nsystem, plan and procedures to manage all HSE activities during all phases of the\nproject execution for Muara yard.\n-\nAssist and on behalf of Project HSE Manager in controlling and promoting all\nmatters related HSE at Muara yard.\n-\nMonitoring the Project HSE Plan, HSE guidelines and Procedures at all worksites\nduring time of the project to be implemented in effectively manner at Muara Yard.\n-\nAdvice Project Management on preventing injury to employees, Heath and\nproperty damage in accordance with safety program at Muara yard.\n-\nCarry out site safety inspection to ensure that safe methods of work are being\ncarried and initiate a safety report.\n-\nCarry out accident/incident investigation, determine the causes, and recommend\npreventive measures.\n-\nAssign and coordinate HSE job for HSE officer.\n-\nCo-ordinate all matters related HSE at Muara yard.\n-\nPrepare safety report as required.\n-\nOrganize and conduct Weekly Safety Tool Box Talks."
+          },
+          {
+            "id": "57598",
+            "title": "HSE Manager",
+            "description": "-\nEnsure mandatory/ specific HSE training/ induction is recorded and updated\nproperly.\n-\nUpdate Project HSE Training Schedule on periodic intervals.\n-\nPerform evaluation of HSE training and submit to project HSE Manager.\n-\nPromote safety to all levels of employees by safety promotion activities and safety\ncampaigns.\n-\nKeep up to date on safety statistic board, bulletin boards, recommended code of\npractices, safety information.\n-\nInspect physically, with the applicant of work permit, the area of intended work,\nespecially in compartment.\n-\nReport to Project HSE Manager all related HSE matters on construction site."
+          },
+          {
+            "id": "57599",
+            "title": "HSE Department",
+            "description": "\u2756 From to :\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: Daman Development Project\n\u25aa\nClient\n: ONGC (India)\n\u25aa\nWorking Location\n: PTSC fabrication yard, Vung Tau City, S.R. Vietnam\n\u25aa\nProject job title\n: Deputy Project HSE Manager\n\u25aa\nDuties and responsibilities:\n-\nAssist Project HSE Manager to develop and set up the project HSE management\nsystem, plan and procedures to manage all HSE activities during all phases of the\nproject.\n-\nMonitoring the Project HSE Plan, HSE guidelines and Procedures at all worksites\nduring time of the project to be implemented in effectively manner at Site.\n-\nAdvice Project Management on preventing injury to employees, Heath and\nproperty damage in accordance with safety program at Site.\n-\nCarry out site safety inspection to ensure that safe methods of work are being\ncarried and initiate a safety report.\n-\nCarry out accident/incident investigation, determine the causes, and recommend\npreventive measures.\n-\nAssign and coordinate HSE job for HSE officer, HSE Inspector.\n-\nPrepare safety report as required.\n-\nOrganize and conduct Weekly Safety Tool Box Talks.\n-\nDevelop the Project HSE Training Procedure/ Matrix and Project HSE Training\nSchedule as requirements of legal and contract.\n-\nCoordinate with relevant parties the execution of HSE Training courses in\naccordance the schedule date in the Project HSE Training Schedule.\n-\nPrepare HSE Training/ induction materials and ensure all material is updated\nproperly.\n-\nProvide HSE training/education/ induction for Project staff and the Client\u2019s staff\nat the worksite as the project HSE training procedure/ matrix and schedule\nrequirements."
+          },
+          {
+            "id": "57600",
+            "title": "HSE Manager and Client HSE Representatives",
+            "description": "-\nPrepare HSE report as required.\n-\nShall report all deficiencies to the HSE Manager and Client HSE Representatives\n-\nMonitor compliance to the Project Zero Tolerance Policy\n-\nAudit and inspect all HSE provisions including welfare and report all deficiencies\nand intervene where immediate hazards are identified\n-\nPromote HSE compliance and Hazard Awareness through one to one and group\ntraining, meetings of disciplines both on site and in class room environments.\n-\nReport to Project HSE Manager all related HSE matters on construction site."
+          },
+          {
+            "id": "57601",
+            "title": "HSE Department",
+            "description": "CURRICULUM VITAE HO DUC HUY\n\u2756 From to :\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: LCP-BADAMYAR Project\n\u25aa\nClient\n: TOTAL/ HHI.\n\u25aa\nWorking Location\n: Yadana Field Offshore Myanmar\n\u25aa\nProject job title\n: HSE Superintendent\n\u25aa\nDuties and responsibilities:\nOffshore Campaign:\n-\nAccountable to the Project HSE Manager for implementing and monitoring the\nHealth Safety and Environment Management Plan, HSE guidelines and\nProcedures during time of the project.\n-\nHaving and adequate knowledge of Health and Safety matters relating to a major\nConstruction Projects.\n-\nPeriodic visual inspections of the worksite and construction tools and equipment\nto identify and correct potential hazardous physical or mechanical conditions in\nline with project audit and inspection procedure.\n-\nHave adequate knowledge of the particular HSE requirements of the Client.\n-\nCarry out accident/incident investigation, determine the causes, and recommend\npreventive measures\n-\nAssign and coordinate HSE job for HSE Supervisor\n-\nEstablishment, training and performance of project emergency response team.\n-\nConducting induction training to all personnel employed on the site and maintain a\ndetailed record of those receiving the induction training.\n-\nConduct attend Toolbox talks, maintaining a record of the date and names of those\nattending such Toolbox talks and training sessions.\n-\nConduct regular safety inspections of all activities on site. Maintain records of\nsuch inspections detailing his finding and recommendations track & report on\nstatus of assigned improvements.\n-\nAdvice Project Management on preventing injury to employees, Heath and\nproperty damage in accordance with safety program at Site.\n-\nCarry out site safety inspection to ensure that safe methods of work are being\ncarried and initiate a safety report.\n-\nIn association with the Project HSE Manager, make arrangements for regular site\nvisits by relevant Health and Safety authorities.\n-\nPromote BBS / Hazard Reporting / Employee Safety Initiatives"
+          },
+          {
+            "id": "57602",
+            "title": "Deputy Project HSE Manager",
+            "description": "\u25aa\nWorking Location\n: PTSC fabrication yard, Vung Tau City, S.R. Vietnam\n\u25aa\nProject job title\n: Deputy Project HSE Manager\n\u25aa\nDuties and responsibilities\n-\nSupport for Project HSE Manager set up the project HSE Management System,\nplan and procedures to manage all HSE activities during all phase of the project\nexecution.\n-\nDevelopment and Monitoring the HSE Plan, HSE guidelines and Procedures at all\nworksites throughout the project to are implemented in effectively manner.\n-\nWork close with Subcontractor to develop, review, comment and approve the\ndetail HSE plan and procedures in each phase of project to ensure its compliance\nwith the HSE plan and HSE system.\n-\nMonitoring and supporting the Subcontractors to ensure the HSE Plan in each\nphase of project is effectively implemented.\n-\nReview of all HSE report included Subcontractor HSE report and ensure that all\ncorrective actions and recommendation are taken.\n-\nSupport the Project HSE Manager manage the emergency situation.\n-\nEnsure adequate means are available to fully implement necessary HSE action.\n-\nReport to Project HSE Manager and HSE Manager of Department.\n-\nProvide Project Management Team with specialist advice and assistance on HSE\nmatters of the Project.\n-\nDevelop and communicate a cost effective safety program for Project.\n-\nOrganize all safety meetings and promote safety awareness campaign.\n-\nDevelop the Project HSE Training Procedure/ Matrix and Project HSE Training\nSchedule as requirements of legal and contract.\n-\nCoordinate with relevant parties the execution of HSE Training courses in\naccordance the schedule date in the Project HSE Training Schedule.\n-\nPrepare HSE Training/ induction materials and ensure all material is updated\nproperly.\n-\nProvide HSE training/education/ induction for Project staff and the Client\u2019s staff\nat the worksite as the project HSE training procedure/ matrix and schedule\nrequirements.\n-\nEnsure mandatory/ specific HSE training/ induction is recorded and updated\nproperly.\n-\nUpdate Project HSE Training Schedule on periodic intervals.\n-\nPerform evaluation of HSE training and submit to project HSE Manager.\n-\nCo-ordinate accident/ incident investigations and reports.\n-\nEnsure that all potential hazards and risks of all activities at worksites are\nidentified and managed.\n-\nDeploy HSE Officer/HSE Inspector to monitor & maintain safety, prevent fires,\nrespond to accidents and control environmental pollution in construction site.\n-\nLiaise with Client on all related HSE matter at construction site."
+          },
+          {
+            "id": "57603",
+            "title": "HSE Department",
+            "description": "\u2756 From to\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: Ca Rong Do TLWP Project\n\u25aa\nClient\n: Repsol"
+          },
+          {
+            "id": "57604",
+            "title": "HSE Manager",
+            "description": "-\nShall ensure all incidents are reported in accordance to the Incident Management\nprocedures, root causes analysis investigation done, and reports submitted as per\nthe timeline. Shall also ensure corrective and preventive actions are established\nand implemented by the persons in charge of the action.\n-\nShall communicate the status of the mobilization of HSE personnel accordingly to\nthe Project HSE Manager.\n-\nMonitor performance and report areas of concern and personnel limitations to the\nProject HSE Manager.\n-\nAssist CTR HUC Manager in promoting safety at work site.\n-\nAdvise CTR HUC Manager on preventing injury to employees, and damage to\nproperty in accordance with this HSE Plan.\n-\nConduct HSE Report, HSE inspection report and other reports which requested by\nCTR HSE Manager.\n-\nFollow up and update the status of submitted reports to CTR HSE Manager the\nOffshore HSE Implement.\n-\nCarry out site safety inspection to ensure that safe methods of work are being\ncarried out and initiated a safety report.\n-\nCarry out accident/incident investigation and determine the causes and\nrecommend preventive measures.\n-\nPrepare safety report as required.\n-\nOrganize and conduct Safety Tool Box Talks and induction courses to new\nemployees.\n-\nPromote safety to all levels of employees by safety promotion activities and safety\ncampaigns.\n-\nKeep up to date on safety statistic board, bulletin boards, recommended code of\npractices, safety information.\n-\nInspect physically, with the applicant of work permit, the area of intended work,\nespecially in the compartment.\n-\nTo be on-site at all times whilst work is in progress, enforce safety and stop any\nwork or operation that violates any safety procedures or instruction or would\nendanger life and property.\n-\nTimely/immediately report any incident on site to CTR\u2019s HUC Manager, line\nsupervisor.\n-\nParticipate in site HSE walk/inspection as required.\n-\nLiaise with CTR HSE Manager and CPY HSE Supr. on all related HSE matter in\nProject."
+          },
+          {
+            "id": "57605",
+            "title": "HSE Department",
+            "description": "\u2756 From to\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: GALLAF Topside Batch 1 Project\n\u25aa\nClient\n: North Oil Company (NOC)\n\u25aa\nWorking Location\n: PTSC fabrication yard, Vung Tau City, S.R. Vietnam\n\u25aa\nProject job title\n: Deputy Project HSE Manager\n\u25aa\nDuties and responsibilities:\nOnshore fabrication phase:\n-\nSupport for the Project HSE Manager set up the project HSE Management\nSystem, plan and procedures to manage all HSE activities during all phase of the\nproject execution.\n-\nDevelopment and Monitoring the HSE Plan, HSE guidelines and Procedures at all\nworksites throughout the project to are implemented in effectively manner.\n-\nWork close with Subcontractor to develop, review, comment and approve the\ndetail HSE plan and procedures in each phase of project to ensure its compliance\nwith the HSE plan and HSE system.\n-\nMonitoring and supporting the Subcontractors to ensure the HSE Plan in each\nphase of project is effectively implemented.\n-\nReview of all HSE report included Subcontractor HSE report and ensure that all\ncorrective actions and recommendation are taken.\n-\nSupport the Project HSE Manager manage the emergency situation.\n-\nEnsure adequate means are available to fully implement necessary HSE action.\n-\nReport to Project HSE Manager and HSE Manager of Department.\n-\nProvide Project Management Team with specialist advice and assistance on HSE\nmatters of the Project.\n-\nDevelop and communicate a cost effective safety program for Project.\n-\nOrganize all safety meetings and promote safety awareness campaign."
+          },
+          {
+            "id": "57606",
+            "title": "HSE Manager",
+            "description": "-\nEnsure mandatory/ specific HSE training/ induction is recorded and updated\nproperly.\n-\nUpdate Project HSE Training Schedule on periodic intervals.\n-\nPerform evaluation of HSE training and submit to project HSE Manager.\n-\nCo-ordinate accident/ incident investigations and reports.\n-\nEnsure that all potential hazards and risks of all activities at worksites are\nidentified and managed.\n-\nDeploy HSE Officer/HSE Inspector to monitor & maintain safety, prevent fires,\nrespond to accidents and control environmental pollution in construction site.\n-\nLiaise with Client on all related HSE matter at Onshore construction site."
+          },
+          {
+            "id": "57607",
+            "title": "HSE Department",
+            "description": "\u2756 From to :\n\u25aa\nCompany\n: PTSC Mechanical and Construction\n\u25aa\nPosition\n: HSE Department- Deputy Safety Team Leader\n\u25aa\nProject\n: GALLAF Topside Batch 3 EPCIC5 Project\n\u25aa\nClient\n: North Oil Company (NOC)\n\u25aa\nWorking Location\n: PTSC fabrication yard, Vung Tau City, S.R. Vietnam\n\u25aa\nProject job title\n: Project HSE Leader\n\u25aa\nDuties and responsibilities:\n-\nSupport for Project HSE Manager set up the project HSE Management System,\nplan and procedures to manage all HSE activities during all phase of the project\nexecution.\n-\nDevelopment and Monitoring the HSE Plan, HSE guidelines and Procedures at all\nworksites throughout the project to are implemented in effectively manner.\n-\nWork close with Subcontractor to develop, review, comment and approve the\ndetail HSE plan and procedures in each phase of project to ensure its compliance\nwith the HSE plan and HSE system.\n-\nMonitoring and supporting the Subcontractors to ensure the HSE Plan in each\nphase of project is effectively implemented.\n-\nReview of all HSE report included Subcontractor HSE report and ensure that all\ncorrective actions and recommendation are taken.\n-\nSupport the Project HSE Manager manage the emergency situation.\n-\nEnsure adequate means are available to fully implement necessary HSE action.\n-\nReport to Project HSE Manager and HSE Manager of Department.\n-\nProvide Project Management Team with specialist advice and assistance on HSE\nmatters of the Project.\n-\nDevelop and communicate a cost effective safety program for Project.\n-\nOrganize all safety meetings and promote safety awareness campaign.\n-\nDevelop the Project HSE Training Procedure/ Matrix and Project HSE Training\nSchedule as requirements of legal and contract.\n-\nCoordinate with relevant parties the execution of HSE Training courses in\naccordance the schedule date in the Project HSE Training Schedule.\n-\nPrepare HSE Training/ induction materials and ensure all material is updated\nproperly.\n-\nProvide HSE training/education/ induction for Project staff and the Client\u2019s staff\nat the worksite as the project HSE training procedure/ matrix and schedule\nrequirements."
+          },
+          {
+            "id": "57608",
+            "title": "Project HSE Officer",
+            "description": "\u2756 From :\n\u25aa\nCompany\n: Ponticelli Upstream LLC\n\u25aa\nProject\n: DBN PWM Project\n\u25aa\nClient\n: North Oil Company (NOC)\n\u25aa\nWorking Location\n: PTSC fabrication yard, Vung Tau City, S.R. Vietnam\n\u25aa\nProject job title\n: Project HSE Officer\n\u25aa\nDuties and responsibilities:\n-\nEnsure compliance by all parties with Company HSE requirements and Policies as\nwell local rules and legislation.\n-\nEnsure that DBN PWM Project Objectives are well disseminated and HSE actions\nare in place to meet Project objectives.\n-\nPromote safety culture within Company personnel and Contractor/ Sub-Contractor\nas well as the reporting of Safety Observations and incentive schemes as may be\napplied.\n-\nEnsure that the Contractor/ Sub-Contractor always complies with safety rules,\ntaking actions as required in case of non-compliance.\n-\nFollow all Permit To Work (PTW) submitted by Contractor/ Sub-Contractor and\nliaise with the SIMOPS PTW Controller on site and anticipate any need.\n-\nEnsure and monitor the safety of personnel and installations as well as the\nprotection of the environment.\n-\nEvaluate/monitor site working conditions related to construction works and assess\nthe contractor\u2019s HSE performance."
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16616",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Jose",
+        "lastName": "PAEL",
+        "creationDate": "2024-03-19T04:23:00+0100",
+        "updateDate": "2024-04-15T16:45:50+0200",
+        "reference": "",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_16616_0921829c90f4c0dd7627d81e3c1b90b85824e541",
+        "skills": "",
+        "mobilityAreas": ["mondepng"],
+        "title": "Lifting Supervisor",
+        "availability": "immediate",
+        "realAvailability": "2024-04-03",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "denverpael77@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+974 55192182",
+        "phone2": "",
+        "currency": 12,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "3364",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "13085",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "David John",
+        "lastName": "Bartlett",
+        "creationDate": "2023-02-07T21:45:32+0100",
+        "updateDate": "2024-04-15T16:43:14+0200",
+        "reference": "DBA - Paid full in PGK",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Heavy Diesel Fitter &  Supervisor",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 2876.15,
+        "email1": "bartlettdavid607@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+61487432085",
+        "phone2": "",
+        "currency": 3,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "1978 - High School Certificate",
+          "1993 - Welder & Fabricator - TAFE",
+          "Motor vehicle repair Industry Cert of Attainment - TAFE",
+          "2015 - Cert- Working - RECEO Training Solutions"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "48031",
+            "title": "Apprentice Tradesman - Cornish\u2019s - Gunnedah - 01/1976 - 01/1998",
+            "description": "agricultural equipment pre-delivery workshop duties and field service\nrepairs and maintenance"
+          },
+          {
+            "id": "48032",
+            "title": "Mechanical Technician - Vickery Coal Mine - Gunnedah - 01/1996 - 01/1998",
+            "description": "haul truck and caterpillar fleet servicing repairs and maintenance, drill service and repair, welding & fabrication and maintenance to coal washery production equipment"
+          },
+          {
+            "id": "48033",
+            "title": "Field Service - Gough and Gilmore Caterpillar dealer - New South - 01/1998 - 01/2004",
+            "description": "mine as well as service and repair of both domestic and government\ncaterpillar machines at various customer sites and councils\nduties also included service and repair of various caterpillar agricultural\nequipment including headers and tractors"
+          },
+          {
+            "id": "48034",
+            "title": "Mechanic & Relief Leading Hand - Gough and Gilmore Field Service - Cadia Valley - 01/2004 - 01/2006",
+            "description": "equipment, welding & fabrication, pre-delivery of new machines, field\nrepairs and diagnosis of various caterpillar onsite machines"
+          },
+          {
+            "id": "48035",
+            "title": "Leading Hand - Westrac CAT - 01/2006 - 01/2010",
+            "description": "staff supervision\nstaff distribution, diagnostics & rebuild of machines, servicing & training, welding repairs\ncomputer log duties\nwriting service reports, writing\ninspection/assembly guidelines, handling timesheets\ncustomer service\ncustomer complaints and conflict resolution"
+          },
+          {
+            "id": "48036",
+            "title": "Plant Mechanic/ Technical - Westrac CAT - 01/2010 - 01/2015",
+            "description": "transmissions final drives large differentials and various hydraulic\ntesting of engines and components testing engines on dynamometers and various\ntest equipment large amount of fault finding and repairs welding\nfabrication instruction of excavator booms and dump truck frame repair"
+          },
+          {
+            "id": "48037",
+            "title": "Plant Mechanic/ Relief Leading Hand - Westrac CAT - 01/2015 - 02/2023",
+            "description": "rebuilds including engines brakes, transmission etc. field service repairs\ntechnical advice to customers, fuel delivery and servicing\ndepending on customers requirements"
+          }
+        ],
+        "languages": [
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "mandarin",
+            "level": ""
+          },
+          {
+            "language": "chinese",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1271",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "11398",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Kobus",
+        "lastName": "MEULENBROEKS",
+        "creationDate": "2022-03-11T07:02:31+0100",
+        "updateDate": "2024-04-15T16:41:59+0200",
+        "reference": "KME - Paid in AUD in full",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Environmental Advisor",
+        "availability": "2024-04-01",
+        "realAvailability": "2024-04-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "kobus_m1707@hotmail.com",
+        "email2": "kobus.meulenbroeks@external.totalenergies.com",
+        "email3": "",
+        "phone1": "+61 4221 98268",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 2,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2009 - Master of Environmental Science - Southern Cross University",
+          "Graduate Diploma - Education - Southern Cross University",
+          "2007 - Bachelor of Science - Biology and Chemistry - Southern Cross University",
+          "2005 - Biology and Psychology - The University",
+          "2007 - Non-award - The University of New England"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "37980",
+            "title": "QGC - QUEENSLAND CURTIS LNG (QCLNG) PROJECT - 01/01/2007 - 01/01/2007",
+            "description": "* Export of LNG from the Surat Basin to Gladstone via a 540km-long high pressure gas pipeline * Easement for construction of the pipeline requiring more than 2,160 hectares of clearing and subsequent re-instatement * Over 70% of the easement aerial seeded using twin-engine \"Squirrel\" helicopter for safety and efficiency * Installation/reinstatement of over 550 permanent gates EXXONMOBIL PNG LNG PROJECT - KOMO AIRFIELD * Environmental / Regulatory Superintendent for major construction contractor contracted to build 3.7-km-long airfield in the highlands of PNG * Water quality and erosion / sediment control paramount - over 10 million cubic metres of material to be moved for cut-and-fill activities * Culturally and environmentally sensitive area with high population density * Extremely high emphasis on safety with approximately 1,200 personnel on site EXXONMOBIL PNG LNG PROJECT - SPIECAPAG NIUGINI (PNG) KOBUS MEULENBROEKS CURRICULUM VITAE +61 422 198 268 E: kobus_m1707@hotmail.com * Team leader and head report writer for 300-km onshore pipeline Right of Way and associated infrastructure (quarries, laydown areas, camp sites etc.) environmental preconstruction surveys. Key tasks included: o managing specialist sub-consultants (zoologist, botanist, archaeologist EXXONMOBIL PNG LNG PROJECT - EXXONMOBIL (PNG) * Field team leader for cultural heritage surveys of quarries, roads, bridge upgrades and laydown areas."
+          },
+          {
+            "id": "37981",
+            "title": "SNOWY - 01/01/2007 - 01/01/2007",
+            "description": "Pumped hydro-power project within highly sensitive environment (Kosciuszko National Park). EXXONMOBIL PNG LNG PROJECT - ANGORE * Expansion project linking newly-developed well to existing Hides Gas Conditioning Plant (HGCP), via 11-km-long, 14-inch steel pipeline TOTAL - PAPUA LNG PROJECT * LNG project in Gulf Province, PNG. Proposed onshore and sub-sea pipeline, as well as upstream Central Processing Facility, and Gas Plant in Caution Bay"
+          },
+          {
+            "id": "37982",
+            "title": "GEOTECHNICIAN COFFEY INFORMATION - 01/01/2007 - 01/01/2008",
+            "description": "* Key tasks included: o Soil, aggregate and concrete testing carried out to NATA standards o Level 1 earthworks monitoring o Client liaison including earthworks / civil contractors and quarry operators o Implementation of all aspects of company safety policies."
+          },
+          {
+            "id": "37983",
+            "title": "Toolbox Talks and SWMSs / ASSISTANT LABORATORY MANAGER AND FIELD OPERATIVE - COFFEY INFORMATION AND COFFEY GEOTECHNICS - 01/01/2008 - 01/01/2009",
+            "description": "o Preparation of subconsultant briefs scopes of work and tender documents o Preparation and presentation of training packages for project kick-off meetings o Preparation QA/QC and management of environmental preconstruction survey data and reports o Contributions to environmental management plans including waste water, soil and erosion and sediment control o Design and implementation of Acid Sulfate Soil investigations o Design and implementation of water and soil quality testing campaigns o Use of GIS hardware (GPS units) and software (ArcGIS) in the preparation of maps and figures o Knowledge of relevant environmental legislation and management systems o Establishment of specialised on-site plant pathology laboratory for Phytophthora-related dieback. * Key tasks included: o Level 1 earthworks monitoring o Client liaison including earthworks / civil contractors and quarry operators o Management of 10 laboratory staff KOBUS MEULENBROEKS CURRICULUM VITAE +61 422 198 268 E: kobus_m1707@hotmail.com o Implementation of all aspects of company safety policies o QA/QC of data, including calculation checks o Carrying out soil, aggregate and concrete test and sampling methods to NATA standards o Environmental water quality sampling o Environmental/geotechnical soil sampling, including borehole logs using Unified Soil Classification System (USCS) for geotechnical site assessments."
+          },
+          {
+            "id": "37984",
+            "title": "o Team leader - JSAs - 01/01/2009 - 01/01/2009",
+            "description": "environmental preconstruction surveys in Papua New Guinea o Water and soil sampling and subsequent results analysis o Assisting with all manner of project management tasks o Implementation of all aspects of company safety policies including preparation of risk analyses"
+          },
+          {
+            "id": "37985",
+            "title": "CONSULTANT - ENVIRONMENTAL SCIENTIST - 01/01/2009 - 01/12/2011",
+            "description": "COFFEY ENVIRONMENTS BRISBANE AND PAPUA NEW GUINEA: Key tasks included"
+          },
+          {
+            "id": "37986",
+            "title": "KOMO AIRFIELD - 01/12/2011 - 01/07/2013",
+            "description": "* Key tasks included: o Ensure Contractor's environmental and regulatory requirements were met, pertaining to: * water quality monitoring (camp and village water sources) * erosion and sediment control KOBUS MEULENBROEKS CURRICULUM VITAE +61 422 198 268 E: kobus_m1707@hotmail.com * pollution and spill prevention * weed, pest and plant pathogen monitoring * reinstatement * licensing, permits and certification * cultural heritage and social impacts o Management of over 40 staff including environmental officers, environmental advisors and labour force (local village workers) o Preparation of weekly, monthly and quarterly Government and Client reports o Environmental compliance audits of construction sites, and machinery workshops and quarries associated with the construction site o Conduct pre-construction clearance surveys of undisturbed sites (e.g., new quarries)."
+          },
+          {
+            "id": "37987",
+            "title": "ENVIRONMENTAL / REGULATORY SUPERINTENDENT - MCCONNELL DOWELL CCC JOINT VENTURE (MCJV) - 01/07/2013 - 01/07/2013",
+            "description": ""
+          },
+          {
+            "id": "37988",
+            "title": "CURTIS LNG PROJECT AUSTRALIA - 01/07/2013 - 01/11/2015",
+            "description": "* Key tasks included: o Oversee re-seeding, gate/fence installation, weed treatment and general reinstatement activities along a 40m-wide, 540km-long (2,160 ha) pipeline easement o Contractor management: * 1 aerial seeding contractor * 2 ground seeding contractors * 1 gate contractor * 1 seed supply contractor * 2 weed management contractors * 1 vegetation management contractor * Civil contractors o Liaise and coordinate with land access consultants, landholders, environmental personnel, construction and management regarding all aspects of reinstatement, including: * seed types * seed mix variations * mapping and GIS requirements * erosion and sediment control structures * mulching * weed management o Budget management pertaining to the abovementioned activities and contractors o Preparation of Environmental Management Plans, scopes of work, method statements and specification documents o Coordination of endangered plant offset strategies, esp. Cycas megacarpa. o Operate and coordinate activities under QGC's Permit-to-Work system"
+          },
+          {
+            "id": "37989",
+            "title": "REINSTATEMENT COORDINATOR / RE-SEEDING LEAD - QUEENSLAND GAS COMPANY (QGC) - 01/11/2015 - 01/11/2015",
+            "description": ""
+          },
+          {
+            "id": "37990",
+            "title": "PNG FIELD ENVIRONMENTAL COORDINATOR - ERIAS GROUP - 01/11/2015 - 01/03/2017",
+            "description": "* Papua LNG Project (Total E&P PNG): o Coordinate all logistical aspects associated with the execution of surveys and other tasks pertaining to Environmental and Social Impact Assessment (ESIA) works for the Papua LNG Project: * Terrestrial Biodiversity * Marine ecology * Freshwater ecology * Social/Cultural Heritage * Air quality * Noise o Liaise with client, government and other stakeholders o Conduct training and induction sessions for expat and local employees o General project management and management of sub-consultants and sub-contractors KOBUS MEULENBROEKS CURRICULUM VITAE +61 422 198 268 E: kobus_m1707@hotmail.com * Solwara 12 Project (Nautilus Minerals): o Joint Lead Scientist on geophysical survey vessel on the Bismarck Sea (5-week tour) o Develop / refine Self Potential (SP) mapping and sediment sampling programs, including troubleshooting of all technical aspects of towing and coring. o Train national scientists in sampling methods, health and safety processes and general back deck operations"
+          },
+          {
+            "id": "37991",
+            "title": "RECOVERY PROJECTS - 01/03/2017 - 01/04/2020",
+            "description": "* Key tasks included: o Management of all environmental aspects pertaining to pipeline Right-of-Way preparation, pipeline construction and re-instatement activities: * erosion and sediment control * water quality monitoring (in situ and sample collection for laboratory analysis) * waste management * hazardous goods management (including radioactive materials) * spill prevention and response o Management of all environmental aspects pertaining to repair scopes associated with earthquake-damaged infrastructure including airport and pipelines using micropiling and other techniques o Preparation and review of Construction/Environmental Management Plans o Development of Work Method Statements, Job Safety Analyses and other procedural documents o Regulatory compliance o Sub-contractor management o Team leadership, training and mentoring for national and local personnel o Conduct (as part of a team) project-wide Environmental Risk Assessment to address all aspects of pipeline construction (including specialized activities such as HDD, teleferics, creek crossings etc) o Maintenance, development and improvement of environmental management systems in accordance with ISO 14001 and company/regulatory requirements"
+          },
+          {
+            "id": "37992",
+            "title": "FIELD ENVIRONMENTAL COORDINATOR - WOOD GROUP - 01/04/2020 - 01/05/2020",
+            "description": "ANGORE PROJECT AND EARTHQUAKE"
+          },
+          {
+            "id": "37993",
+            "title": "all environmental - 01/05/2020 - 01/05/2021",
+            "description": "Key tasks included o Management of aspects pertaining to this State-Significant Infrastructure project within a National Park. Namely tunneling-related construction activities including * Greenfield clearing activities - strict adherence to clearing permit process * Drill and Blast * Tunnel Boring Machine establishment * Camp construction * Roads * Adit and Portal Face construction * Water management - surface water and ground water including regular monitoring as part of Client's Environmental Protection Licence (EPL) o Liaison with regulatory bodies including National Parks and Wildlife Service, Environmental Protection Authority and Department of Planning, Infrastructure and Environment o Implementation, review and updating of Construction/Environmental Management Plans o Development of Work Method Statements, Job Safety Analyses and other procedural documents o Management of team of Environmental Advisors, specialist environmental consultants and sub-contractors KOBUS MEULENBROEKS CURRICULUM VITAE +61 422 198 268 E: kobus_m1707@hotmail.com"
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "5954",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Luca",
+        "lastName": "CAMPRA",
+        "creationDate": "2019-12-31T17:42:08+0100",
+        "updateDate": "2024-04-15T16:34:10+0200",
+        "reference": "LCA - Paid in Euro on 062920105522188",
+        "typeOf": 13,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "SUPERINTENDENT",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "Luca.campra@robodrill.fr",
+        "email2": "",
+        "email3": "",
+        "phone1": "+393894504765",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [
+          "drillingcompletion",
+          "drillingsuperintendent",
+          "drillingsupervisor"
+        ],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14936",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "NADIDE",
+        "lastName": "\u00d6ZKAN",
+        "creationDate": "2023-09-13T18:29:05+0200",
+        "updateDate": "2024-04-15T15:43:27+0200",
+        "reference": "NOZ - Paid in Euro",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": ["mondeafrique"],
+        "title": "Service Buyer / Expeditor",
+        "availability": "2024-09-15",
+        "realAvailability": "2024-09-15",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "nadide.ozkan@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+33781318647",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2020 - MBA of International Development Management - EMCI La Salle",
+          "2018 - Bachelor of Import-Export Operations Management - EMCI La Salle",
+          "2017 - Postgraduate Degree of International Trade - EMCI La Salle"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "54989",
+            "title": "Global leader",
+            "description": "BOLLORE LOGISTICS\nGlobal leader in international transport & logistics\nOcean Import Agent\n\u2022 Understanding and comply with the procedures related to ocean import.\n\u2022 Receive client orders and send them to the originating agent to coordinate shipments with suppliers.\n\u2022 Follow up with agents to ensure that the shipments are shipped on the planned date.\n\u2022 Open files for shipment and enter data in the operational system according to the ISO standards of the company.\n\u2022 Update events in the Pegasus system.\n\u2022 Invoice clients and ensure that all charges for services rendered are included and that rates are billed according to the\nagreement (if necessary, verify credit with the accounting department)\n\u2022 Select an approved supplier for shipping amongst the ISO list of approved suppliers."
+          },
+          {
+            "id": "54990",
+            "title": "Export Administrator",
+            "description": "MFPM MICHELIN\nFrench multinational, second largest tire manufacturer in the world.\nExport Administrator & Project Support, Clermont-Ferrand, France \u2022 to\n\u2022 Responsible for the organization of transport for industrial products between the Michelin logistics platform and the Michelin\nThailand industrial sites.\n\u2022 In charge of the animation and the deployment of IT tool for processing Export requests. The purpose of this tool is to\ncoordinate the intercontinental export service for industrial goods and the European ordering industrial sites."
+          },
+          {
+            "id": "54991",
+            "title": "Import-Export Manager",
+            "description": "ARMSAN\nTurkish company specialized in production of smoothbore shotguns since .\nImport-Export Manager, Istanbul, Turkey \u2022 to February 2019\n\u2022 In charge of export flows of semi-automatic weapons from Turkey to countries from Latin America, Malaysia and France.\n\u2022 Responsible for major French accounts.\n\u2022 Participation in the Shot Show, an annual American trade show for the shooting, hunting, and firearms industries."
+          },
+          {
+            "id": "54992",
+            "title": "Export Sales Manager",
+            "description": "NBC-SYS - NEXTER Group\nNBC-Sys, a Nexter Group brand, based in Saint-Chamond, meet the most complex expectation of armed forces regarding CBRN threats.\nExport Sales Manager, Saint-Chamond, France \u2022 to\n\u2022 Development of the customer portfolio in Europe and South America.\n\u2022 Optimization of distribution networks and analysis of needs among distributors.\n\u2022 Analysis of new markets for the product group \" Individual protection \".\n\u2022 Drafting of offers & Implementation of contracts (compliance with Compliance rules)"
+          },
+          {
+            "id": "54993",
+            "title": "Procurement Coordinator",
+            "description": "Procurement Coordinator, Saint-Etienne, France \u2022 -\u2022 Dec 2021 to Present\n\u2022 Processing and monitoring of orders for raw materials and packaging\n\u2022 Delivery time monitoring\n\u2022 Follow-up with suppliers Optimization of stock levels\n\u2022 Coordination of supply flows with production flows"
+          }
+        ],
+        "languages": [
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "spanish",
+            "level": ""
+          },
+          {
+            "language": "turkish",
+            "level": ""
+          },
+          {
+            "language": "german",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "819",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "2",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16445",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Dominique",
+        "lastName": "Savanier",
+        "creationDate": "2024-02-29T12:07:26+0100",
+        "updateDate": "2024-04-15T15:42:50+0200",
+        "reference": "DSA - Paid in Euro",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": ["monde"],
+        "title": "Head of Exploration Department",
+        "availability": "2024-05-07",
+        "realAvailability": "2024-05-07",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "savadom@yahoo.fr",
+        "email2": "",
+        "email3": "",
+        "phone1": "+573112333712",
+        "phone2": "(+33) 06 35 96 81 78",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "1999 - Master of Earth Sciences - University of Rennes",
+          "1998 - ELF Aquitaine"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "59947",
+            "title": "Marquesas",
+            "description": "& : Patagonian Expedition Race, Chilean Patagonia & Tierra del Fuego:\nVolunteer as production asistain charge of logistics for the medias (photographs and cameramen), Logistics of the\nFinal point\nwww.patagonianexpeditionrace.com\nVisited Countries (time in months/years): Colombia (8y), Brazil (1m), Chile (6y), French Guyana (6m), Guinea\nConakry (1m), Mali (1y), Mongolia (6m), Peru (1m), Morocco (6m), Switzerland (5m), New Zealand (1m), Marquesas\nArchipelago (17m), Easter Island (2m), England (5m), Spain (5m), Burkina Faso & Ivory Coast (1m), Turkey and Syr-\nia (1m), Mexico (1m), Italy (1m).\nHobbies: Cooking, Diving, Sailing, Trekking, Cycling\nLicence: Driving Lc., 4WD Lc. in Mountains and extreme roads, Coastal Marine Lc., Advanced Paddy Diving Lc."
+          },
+          {
+            "id": "59948",
+            "title": "Production Assistant",
+            "description": ": Hechando Globos s.a.s, Production Assistant for a 6 Episodes TV-Miniserie: \u201dTu Casa es mi Casa\u201d"
+          },
+          {
+            "id": "59949",
+            "title": "Geologist for the Project",
+            "description": "\u2022\n/ (6 months) : ELF Aquitaine / CNRS (Centre National de la Recherche Scientifique),\nG\u00e9osciences Rennes, FRANCE\nGeologist for the Project:\"Deep-sea fans, the scaling parameters\"\n-Synthesis of stratigraphical, geodynamical and geomorphological datas of some deltaic systems (Rh\u00f4ne, Bengal,\nAmazonia and Campos-Santos)\n-Building maps (topographic, bathymetric, geologic and isopachs), cross-sections and tectono-stratigraphic diagrams\nof the rivers systems and their hydrographic basins"
+          },
+          {
+            "id": "59950",
+            "title": "Geological Mapping",
+            "description": "\u2022\n/ (2,5 years): BRGM, Geological Mapping, Volunteer of the Technical Assistance,\nMARQUESAS ARCHIPELAGO:\nMapping geologist in Polynesia, French National Territory Mapping Program\n- Geological mapping of three volcanic islands of the Marquesas Archipelago\n- Mapping zones exposed to natural hazard\n- Logistic organization of geological missions\n- Drawing the geological maps (1/50K) of Nuku Hiva and Ua Huka Islands, co-authoring the associated memoir\n- Mineralogical, geochemical and petrological analysis of rock samples, K/Ar dating"
+          },
+          {
+            "id": "59951",
+            "title": "Wellsite Geologist",
+            "description": "\u2022\n/ (20 months): GEO-RS, Exploration & Production Drilling Operations, Services\nProvider for Oil & Gas industry, FRANCE:\nWellsite Geologist, Mud-logger, Onshore drilling rigs inside Mz Paris Basin\n- Mud-logging and monitoring of drilling parameters\n- Sedimentological and structural logging & sampling of DDH core samples\n- Monitoring drilling of horizontal drains in oil reservoirs of the Paris Basin\n- Work Over on control wells for underground gas storage"
+          },
+          {
+            "id": "59952",
+            "title": "Technical Assistance",
+            "description": "\u2022\n/ (5 months), BRGM, Technical Assistance, Energy & Mining Ministry , MOR-\nROCCO KINGDOM:\nGeologist Expert (stratigraphy & mapping) of the G\u00e9oForma project (development and promotion of geoscientific\nmapping in Morocco, Financed by the European Development Fund)\n- Updating the litho-stratigraphic norms for Moroccan geological mapping projects\n- Building geological glossaries for the data base of the National Geological Information System\n- Checking quality and norms of the eight 1/50.000 geological maps\n- Updating the Moroccan terms of references for geological mapping"
+          },
+          {
+            "id": "59953",
+            "title": "Sedimentologist Expert",
+            "description": "\u2022\n/ (6 months), AREVA, Uranium Prospection, Dulaan Uul Project, REPUBLIC OF\nMONGOLIA:\nSedimentologist Expert, Resources Estimation Project, Uneget basin, Gobi desert\n- Conducting the prospection operation (drilling, downhole geophysical Logging, sampling, mapping)\n- DDH cores logging, diagraphic correlations, sampling, geological modelling\n- Setting drilling programs and supervising the driller companies\n- Hydrogeological pumping tests for ISL modeling processes\n- Training Mongol geologists to core logging"
+          },
+          {
+            "id": "59954",
+            "title": "Mapping Geologist and Sedimentologist expert",
+            "description": "\u2022\n/ (11 months), BRGM, Regional Geological Mapping, Evaluation of the Petroleum Sys-\ntem of the Subsaharian Gourma Region, Sahel Desert, MALI:\nMapping Geologist and Sedimentologist expert within SYSMIN Project: developing the mining industry in West\nAfrica, (Financed by European Development Fund)\n- Geologic synthesis and drawing the compilation maps (remote sensing and bibliography)\n- Geological mapping (1/200K) in the Sahel desert within a team of geological experts (stratigraphy, tectonic, miner-\nalogy)\n- Interpretation of the structures and the stratigraphy, improving the regional geological knowledge\n- Drawing maps and co-authoring of the Geological Memoir\n- Training Malian geologists, planning & logistics of field campaigns, team supervision"
+          },
+          {
+            "id": "59955",
+            "title": "Senior Geologist for Limonade Project",
+            "description": "\u2022\n/ (6 months), REXMA, Placer Gold mining and explorations in FRENCH GUYANA :\nSenior Geologist for Limonade Project, Saul District, Guyana Rainforest:\n- Conducting the prospecting campaign for sedimentary Gold deposit in Guyana\u2019s river beds.\n- Exploration of the unknown parts of the permit area (5x5km): Geological/Geomorphological Mapping\n- Bringing the project to the institutions for getting mining permits\n- Supervising the Brazilian prospection team"
+          },
+          {
+            "id": "59956",
+            "title": "Exploration Geologist & Sedimentologist of the Hydrogeological Unit",
+            "description": "\u2022\n. / (11 months), SQM-Salar, Exploration and production potassium & lithium salts in\nSalar de Atacama, CHILE :\nExploration Geologist & Sedimentologist of the Hydrogeological Unit, Atacama desert \u2013 Central Andes:\n- Supervising exploration and prospecting operations (RC drilling, mud-logging, and sampling)\n- Setting data base norms for geological modeling (stratigraphy, sedimentology & mineralogy)\n- Reviewing historical data sets and updating geological models (diagraphy, seismic lines, DDH cores, RC cuttings...)\n- Supervising exploration programs & academic project with University de Chile (mapping, sampling, hydrogeology)\n- Supervising DDH & RC drilling campaign with external subcontractors"
+          },
+          {
+            "id": "59957",
+            "title": "Porphyry systems, Target Definition to Target Testing",
+            "description": "\u2022\n/(3 years), Teck Resources Chile Ltda, Brownfield Exploration for Copper-Gold\nPorphyry systems, Target Definition to Target Testing, Andean Cordillera, CHILE :\nProject geologist for Quebrada Blanca Brownfield Explorations (4000m asl), Targets: Cu-Mo porphyry systems, High\nto intermediate Sulfidation System:\n-\nGeological mapping (Anaconda method) 1/10K, 1/5K, 1/2K, logging of DDH cores, petrographic studies,\n-\nDesign of soils sampling & geophysics campaigns, design of DDH campaign\n-\nSupervising drilling campaigns (13.000m DDH), managing project budget (10M USD in 2012)\n-\nHealth & Safety: nominated for the Teck\u2019s \u201c2012 Excellence Awards\u201d for safety in the workplace\n-\nManaging community issues."
+          },
+          {
+            "id": "59958",
+            "title": "Epithermal system",
+            "description": "\u2022\n/ (6 months), Teck Resources Chile Ltda, Greenfield Exploration of Gold\nEpithermal system, Target Testing, Putre District, Andean Cordillera, CHILE :\nProject geologist for Juan Frontera Project (4500m asl), Targets: Sulfidation System in a Diatrem environment:\n-\nGeologist in charge of the operations (7/7-24/24 up to 50 people), the campsite, logistics & HSEQ\n-\nSupervising the drilling activities (3000 m DDH), subcontractors supervision & revision of payments\n-\nGeological core & surface mapping (1/2k) and sampling (Anaconda Method)\n-\nHealth & Safety leadership / Community Relations"
+          },
+          {
+            "id": "59959",
+            "title": "Geological Consulting",
+            "description": "\u2022\nSince (7 years), Geolog\u00eda Regional y Prospecci\u00f3n s.a.s, Geological Consulting for Explo-\nration and Field Mapping - COLOMBIA :\nSenior Geologist, Project Manager and Consultant for business expansion and public tenders\n- Technical and financial proposal formulation for public tenders, international partnerships management and financial\nnegotiations, scientific planning with experts and partners, development of academic alliances\nSenior Geologist & Project Manager, 507 Project 2017/ Servicio Geologico Colombiano, Geological mapping\n(1/100K), Paramillo Batholith, Cordoba Region, 309 Project 2016/ Servicio Geologico Colombiano, geochemical\nsampling Orinoco Region & VMM 2015 / ECOPETROL 1/25.000& geological mapping, Middle Magdalena Valley\n-\nSupervising compilation phase, field & sampling plannings\n-\nSupervising geological mapping operations\n-\nInterpretation of the field results, drawing the maps and writing final reports"
+          },
+          {
+            "id": "59960",
+            "title": "Chief Geologist",
+            "description": "\u2022\n/ (6 months), Apollo Minerals Ltd, Zn/Pb Krousou Exploration Project, GABON :\nChief Geologist, onsite Project Manager as Consultant:\n-\nManaging exploration operations in Gabon, human resources, campsite, logistics & HSEQ\n-\nSupervising the drilling activities (5000 m DDH), subcontractors operations & revision of payments\n-\nManaging relationships and communication with local institution and stakeholders, meetings and legal issues\n-\nHealth & Safety leadership / Community Relations"
+          }
+        ],
+        "languages": [
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "spanish",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "portuguese",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "819",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "2",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16819",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Derick",
+        "lastName": "Nyamukondiwa",
+        "creationDate": "2024-04-08T15:57:01+0200",
+        "updateDate": "2024-04-15T15:29:38+0200",
+        "reference": "",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Shutdown Supervisor",
+        "availability": "2024-04-28",
+        "realAvailability": "2024-04-28",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "dnyamukondiwa@outlook.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+263786475062",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 3,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [
+          {
+            "id": "62235",
+            "title": "",
+            "description": "Education&Development -Mutare Technical College Mutare,Zim\n\u25aa National Certificate in Machineshop Eng\n\u25aa SKF Level 2 bearing course\n\u25aa Supervisory Development Programme\n\u25aa Delta Didactic Hydraulic Course\n\u25aa Delta Didactic Pneumatic Course\n\u25aa I.H.C Dredge Maintenance Course\n\u25aa Flowserve Mechanical Seals Course"
+          },
+          {
+            "id": "62236",
+            "title": "Apprentice Fitter",
+            "description": "-Delta Corporation Harare,\nZimbabwe\nApprentice Fitter\n. Training on various plant and equipment including\nGearboxes\nConveyors\nPumps including centrifugal,piston,vane,pneumatic pumps\nMachining on milling machine, lathe and use of hand tools.\nSteam system maintenance including boiler overhaul\nHammer and wet milling machines in food industries."
+          },
+          {
+            "id": "62237",
+            "title": "Packaging Maintainer Operator",
+            "description": "-\nNational Breweries\nHarare, Zimbabwe\nPackaging Maintainer Operator\n\u25aa Operation and maintenance of packaging plant including,\n\u25aa Bottle filler maintenance and overhaul.\n\u25aa Packaging slat chain conveyor and gearbox maintenance and\nlubrication systems.\n\u25aa Steam pasteurizers drive gearboxes and spray systems.\n\u25aa Bottle washers drives and caustic feed systems including\nheating element maintenance.\n\u25aa Labeling systems and pneumatic controlled feeding systems.\n\u25aa Pneumatic controlled valves of various sizes."
+          },
+          {
+            "id": "62238",
+            "title": "Section Fitter",
+            "description": "-\nNational Breweries\nHarare, Zimbabwe\nSection Fitter (Brew house)\n\u25aa Responsible for the maintenance of brew house section\nincluding the Feed mills crushing rollers and drive systems.\n\u25aa Raw material conveyor and bucket elevator system\nmaintenance and splicing and gear boxes.\n\u25aa Valve maintenance from 1\u201d to 400mm size valves.\n\u25aa Industrial heat exchanger and chiller maintenance.\n\u25aa Hydraulic filter system maintenance and overhaul.\n\u25aa Steam boiler system maintenance and service of valves and\ncoal elevators.\n\u25aa Training sectional apprentices."
+          },
+          {
+            "id": "62239",
+            "title": "Plant Shift Supervisor",
+            "description": "-\nRio Tinto Diamonds Murowa,Zimbabwe\nPlant Shift Supervisor\n\u25aa Responsible for both the production and maintenance function\nin a multi skilled team of artisan operators.\n\u25aa Maintenance of D.M.S plant including warman pumps\n,dewatering cyclones, vibrating screens\n\u25aa Maintenance of process plant including trommels with\nassociated gearboxes, Venturi pumps.\n\u25aa Conveyor maintenance including tracking, mechanical splicing,\nroller maintenance and scrapper systems.\n\u25aa Planned maintenance planning and execution with a team of\nartisans\n\u25aa Training non technical staff in basic maintenance skills.\n\u25aa Maintaining the tails disposal system from the VSD pumps\nthrough the piping and the tails deposit dams.\n\u25aa Maintaining the primary crushing including jaw and cone\ncrushers.\n\u25aa Taking responsibility for plant in absence of the plant Supt."
+          },
+          {
+            "id": "62240",
+            "title": "Mechanical/Dredge Fitter",
+            "description": "-\nKenmare Moma Mineral Sands\nMozambique\nMechanical/Dredge Fitter\n\u25aa Responsible for maintenance of plant on the dredge including\n\u25aa Cutter head and teeth inspection and service.\n\u25aa Swing winches and ladder winches, gearboxes winch ropes\nand drum brakes.\n\u25aa Total maintenance of dredge hydraulic systems including\nhydraulic motors, rams and braking systems.\n\u25aa Main dredge pump and ancillary pumps in the whole dredge\nsystem including centrifugal and double impeller pumps.\n\u25aa Maintenance of the central lubrication system.\n\u25aa Repairs to water and oil pipe lines.\n\u25aa Process plant maintenance including\n\u25aa Trommels and drive gearboxes.\n\u25aa Warman pumps from 4/3 to 500L size pump maintenance.\n\u25aa General conveyor maintenance including tracking scraping\nsystems, alignment."
+          },
+          {
+            "id": "62241",
+            "title": "Plant Maint Foreman",
+            "description": "Highland African Mining Co\nMozambique\nPlant Maint Foreman\n\u25aa Responsible for maintenance of mine processing plant\ncomprising, pumps of various types warman,sulzer,gearboxes\nradicon,david brown etc,pneumatic actuated valves, manual\nvalves being,ball,butterfly,knife gate valves, crushing plant with\nassociated conveyor systems.HDPE and steel piping single\nand double deck vibrating screens.\n\u25aa Leading a team of artisans to achieving set maintenance and\navailability targets.\n\u25aa Training low skilled personnel into functional artisans able to\nwork on their own to set targets by hand on application at\nworkbench level.\n\u25aa Establishing a scheduled maintenance programme to enhance\nmachine up time and reduce unplanned down time.\n\u25aa Imparting and establishing a maintenance safety system and\nstandard in line with industry and legal regulations.\n\u25aa Managing spares inventory to avoid spares stock outs at critical\ntimes.\n\u25aa Commissioning all new plant and equipment and training all\npersonnel on such equipment to improve productivity.\n\u25aa Improving housekeeping and workmanship and sense of\nownership among the team.\n\u25aa Also responsible for non-core activities like civil construction\nand provision of portable and plant water system."
+          },
+          {
+            "id": "62242",
+            "title": "General Engineering Supervisor",
+            "description": "-Sierra Rutile Ltd Sierra\nLeone\nGeneral Engineering Supervisor/Maintenance Engineer\n\u25aa Responsible for the maintenance of floating plant and bucket\nladder dredger.\n\u25aa Bucket ladder dredger inclusive of bucket ladder drive\nmechanism, top and bottom tumbler drives and inclusive of the\ngearboxes.\n\u25aa Dredger process circuit inclusive of all the pumping units up to\n20/18 warman pumps.\n\u25aa Dredger screening circuit both static sieve bends and vibrating\nscreens.\n\u25aa Dredger scrubber circuit both primary and secondary scrubber\ninclusive of the gear drives, central lubrication system.\n\u25aa All associated paperwork and launders.\n\u25aa Planning and leading a team of boilermakers and fitters to\nsuccessful execute a maintenance program scheduled and\nnon scheduled.\n\u25aa Minimizing the downtime by instilling a culture of proactive\ninspections of plant and equipment.\n\u25aa Planning and acquiring resources for effective maintenance.\n\u25aa Managing the section budget and ensuring low levels of\nmaintenance costs.\n\u25aa Ensuring adequate spares levels in warehouse to avoid\nextended downtimes.\n\u25aa Ensuring a safe work environment by adherence to set H.S.E\nprocedures as by world class operating standards.\n\u25aa Training and coaching staff in proper work standards and ethics\nand safe work procedures.\n\u25aa"
+          },
+          {
+            "id": "62243",
+            "title": "Maintenance Supervisor",
+            "description": "-Grande Cote Operations\nSenegal\nMaintenance Supervisor/Trainer\n\u25aa Responsible for plant maintenance on a shift basis.\n\u25aa Mentoring and training local non expat personnel in the\nsupervisory and technical aspects.\n\u25aa Technical training and instruction of a team of local personnel\nto world class maintenance standards.\n\u25aa Responsible for safety training of personnel during shift to best\nsafety practice.\n\u25aa Setting of systems and standards in the maintenance\ndepartment at a new mine in a low skills environment."
+          },
+          {
+            "id": "62244",
+            "title": "Plant and Equipment Mechanical Technician",
+            "description": "ORO Projects Vereeniging -\nPlant and Equipment Mechanical Technician\n\u25aa Responsible for plant maintenance on 2 sites.\n\u25aa Maintenance and running repairs on mobile plant hydraulic\nsystems to ensure maximum uptime for all equipment.\n\u25aa Maintenance of pneumatic systems on gearboxes and\ntransmissions.\n\u25aa Diagnosis of failures and potential failures and reporting to site\nmanagers and providing solutions and remedies to such\nissues.\n\u25aa Setting of systems and standards in the maintenance\ndepartment at the sites in a low skills environment.\n\u25aa Setting up maintenance schedules for plant and equipment\nfrom zero for efficient use of resources.\n\u25aa Providing technical support to the sites as and when required\nby the site managers.\n\u25aa Maintenance and recording of consumables as well as\nrestocking as required.\n\u25aa Housekeeping of the maintenance work area.\n\u25aa Providing reports of availabilities and downtimes for accurate\nmeasurement of costs on the projects on both sites.\n\u25aa"
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "13681",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "9",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16818",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "George",
+        "lastName": "Manongwa",
+        "creationDate": "2024-04-08T15:52:37+0200",
+        "updateDate": "2024-04-15T15:28:56+0200",
+        "reference": "",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Shutdown Supervisor",
+        "availability": "2024-04-28",
+        "realAvailability": "2024-04-28",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "gpmanongwa@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+263784010103",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 3,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": ["Mechanical Engineering - City and Guilds of London"],
+        "experience": -1,
+        "references": [
+          {
+            "id": "62227",
+            "title": "Fitter and Turner Machinist",
+            "description": "Fitter and Turner Machinist,\nLafarge Cement\nCement products\n-\nApprentice training for 4 years, then graduated to an Artisan\nMaintenance of open cast mining equipment - pumps, jaw crushers,\nhammer crushers, cone crushers, sand classifiers, vibrating screens, sand\ndredger\nMaintenance of Fixed plant- reclaimmers, ball mills, separation plants,\nhydraulic systems, dust collection systems, forced draft fans, induction fan,\nbucket elevators, plate conveyors, overhead cranes, air blowers and\ncompressors"
+          },
+          {
+            "id": "62228",
+            "title": "Powerplant Fitter",
+            "description": "Khartoum Power Station,\nPowerplant Fitter,\nKhartoum Sudan,\n-\nAdhering to safety protocols and procedures to maintain a safe work\nenvironment\n\u2022\nAbility to inspect, troubleshoot, and repair existing pipe systems to\nmaintain safety and efficiency\n\u2022\nRepairing and assembling piping systems, cooling towers, including\npumps, valves, and related equipment.\n\u2022\nmanaged comprehensive maintenance and repair plans for all power\nplant systems."
+          },
+          {
+            "id": "62229",
+            "title": "Pipe Fitter",
+            "description": "Pipe Fitter\nAnvil Mining\nDikulushi , Democratic Republic of Congo\n-\n\u2022\nCopper crushing plant and floation plant construction, installation\nand commissioning\n\u2022\nSuccessfully installed, repaired and maintained a variety of pumps\nand piping systems, including lubrication, water, acid, and drainage.\n\u2022\nCollaborated with engineering teams to ensure piping systems met\nspecifications and were installed efficiently.\n\u2022\nInspected and tested piping systems to identify and fix any\ndiscrepancies.\n\u2022\nOperated a variety of hand and power tools while performing pipe\nfitting work.\n\u2022\nFixed plant, pumps, valves and other components to ensure optimal\nperformance of piping systems.\n\u2022\nRepaired and maintained high-pressure piping systems and related\nequipment.\n\u2022\nMonitored the performance of pipes and fittings to detect any\npotential issues."
+          },
+          {
+            "id": "62230",
+            "title": "Maintenance Fitter",
+            "description": "Maintenance Fitter,\nZimphos,\nHarare, Zimbabwe\n-\n\u2022\nPerformed regular maintenance and repair operations for a wide\nrange of machines and equipment. Rod Mill, boiler maintenance,\nacid plants, water treatment plants, heat exchangers, smelters,\nconveyor belts.\n\u2022\nShutdown maintenance on slurry pumps,"
+          },
+          {
+            "id": "62231",
+            "title": "Mechanical Inspector",
+            "description": "Mechanical Inspector\nMurray and Roberts\nMopane Mine, Mufulira, Zambia\nto\n\u2022\nCopper smelter and sulphuric acid plant construction, installation\nand commissioning.\n\u2022\nConducted quality inspections on mechanical components for\nprecision and accuracy.\n\u2022\nMaintained accurate records of all inspections and reported\ndiscrepancies to supervisors.\n\u2022\nUtilized a variety of precision measurement equipment to assure\nquality standards.\n\u2022\nCollaborated with other engineering and production personnel to\nidentify and resolve any mechanical issues.\n\u2022\nFollowed established safety protocols when inspecting and testing\nequipment.\n\u2022\nDeveloped inspection protocols for mechanical components."
+          },
+          {
+            "id": "62232",
+            "title": "",
+            "description": "Fitter\nAnvil Mining of Australia\nKinsevere Mine, Lubumbashi, Democratic\nRepublic of Congo -\nMineral Copper\nSuccessfully installed and maintained a variety of mechanical systems,\nincluding jaw crushers, apron feeders, pumps, and valves, conveyor belts,\nball mills, vibrating screens, smelter/ furnaces, fuel stations, oxygen plant.\n\u2022\nPerformed regular maintenance and repair operations for a wide\nrange of machines and equipment.\n\u2022\nFabricating of steel\n\u2022\nErecting steel structure\n\u2022\nCollaborated with other tradesmen to ensure efficient completion of\ntasks."
+          },
+          {
+            "id": "62233",
+            "title": "Maintenance Fitter",
+            "description": "Maintenance Fitter\nKenmare Resources Mozambique\nto\nMineral Heavy Sands Titanium\n\u2022\nAttended to breakdowns.\n\u2022\nSuccessfully installed and maintained a variety of mechanical\nsystems, including pumps, and valve separation machines, bucket\nelevators.\n\u2022\nPerformed regular maintenance and repair operations for a wide\nrange of machines and equipment. Warman Centrifugal slurry\npumps, Warman slurry spillage pumps, flotation plant, trommel\nscreen, hydraulic systems, whims machines, dust collection, plants,\nconveyor belts, drag chains, overhead cranes, driers, induction fans,\nrefractory work, belt filters, drum magnets, firefighting equipment,\nvalves pipework.\n\u2022\nInspected and tested system components on a regular basis to\nidentify problems.\n\u2022\nRepaired faulty parts according to specifications.\n\u2022\nCollaborated with other tradesmen to ensure efficient completion of\nprojects.\n\u2022\nProvided technical support to colleagues and customers.\n\u2022\nFollowed safety protocols and standards to ensure a safe working\nenvironment."
+          },
+          {
+            "id": "62234",
+            "title": "Mechanical Supervisor",
+            "description": "Mechanical Supervisor\nKenmare Resources Mozambique\n\u2013\nMineral Titanium (Heavy Sands)\n\u2022\nConducting preventative and corrective maintenance on a large\nscale of fixed plant machinery and equipment\n\u2022\nWorked with the Planning Department to improve plant reliability\nand availability by ensuring that preventative maintenance and\nrepair procedures are done in accordance with the required\nstandards.\n\u2022\nAttended to breakdowns."
+          }
+        ],
+        "languages": [
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "shona",
+            "level": ""
+          },
+          {
+            "language": "portuguese",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "13681",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "9",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16720",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Nicolas",
+        "lastName": "BARON",
+        "creationDate": "2024-03-27T13:46:49+0100",
+        "updateDate": "2024-04-15T09:59:44+0200",
+        "reference": "",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "G\u00e9nie Civil\nPilotage et Coordination\nSupervision des travaux\nGestion d'\u00e9quipe",
+        "mobilityAreas": [],
+        "title": "Project Manager - Civil & Maritime Works",
+        "availability": "2024-05-01",
+        "realAvailability": "2024-05-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "nicolas.baron1990@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+33 7 89 47 30 53",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": ["Construction", "B\u00e2timents"],
+        "activityAreas": [
+          "geniecivilbuildings",
+          "geniecivilgrosoeuvre",
+          "geniecivilsuperviseur",
+          "projectplanning"
+        ],
+        "diplomas": [
+          "Ing\u00e9nieur ESTP Paris - Fili\u00e8re Travaux Publics"
+        ],
+        "experience": 3,
+        "references": [
+          {
+            "id": "61527",
+            "title": "Planning - 01/01/2016 - 01/01/2018",
+            "description": "Projet Mds \u20ac * Mise en service de tron\u00e7ons autoroutiers * Coordination avec les autorit\u00e9s du Qatar et concessionnaires Encadrement d'\u00e9quipes travaux (2 Ing\u00e9nieurs 5 Chefs de Chantier 70 ouvriers) * Supervision de l'installation d'\u00e9quipements (glissi\u00e8res barri\u00e8res rigides marquage) report budget, coordination inter departements (GC, Reseaux, Route) * Elaboration r\u00e9clamations client Responsable m\u00e9thodes - Vinci Construction Grands Projets / QDVC"
+          },
+          {
+            "id": "61528",
+            "title": "OPC/Contrat - Eiffage G\u00e9nie Civil - 01/01/2018 - 01/01/2020",
+            "description": "Projet Grand Paris Ligne 16 - Lot 1 - Zone GC1 450 M\u20ac * Coordination des travaux g\u00e9nie civil - 5 ouvrages * Synth\u00e8se, analyse et suivi des plannings travaux * Reporting chantier (rapports hebdomadaires, mensuels) * Pilotage des interfaces (GC, Tunnel, Syst\u00e8mes) * Suivi contrats et gestion sous traitants (fondations, terrassement, \u00e9tanch\u00e9it\u00e9.) * Coordination avec MOE (optimisations, situations travaux, fiche modificatives, avenants ) * Management : 2 ing\u00e9nieurs, 1 responsable suivi contractuel et 1 metreur Ing. Travaux principal - Vinci Construction Grands Projets / QDVC"
+          },
+          {
+            "id": "61529",
+            "title": "Projet: Grand Paris Ligne 16 - Lot 1 - Zone GC1 - 01/01/2020",
+            "description": "* Ouvrage 0220P_ Tranch\u00e9e ouverte/couverte et puits lancement tunnelier 38 M\u20ac Responsable"
+          },
+          {
+            "id": "61530",
+            "title": "Directeur des travaux - Eiffage -",
+            "description": "G\u00e9nie Civil Actuel"
+          }
+        ],
+        "languages": [
+          {
+            "language": "fran\u00e7ais",
+            "level": "maternel"
+          },
+          {
+            "language": "Anglais",
+            "level": "interm\u00e9diaire"
+          },
+          {
+            "language": "Espagnol",
+            "level": "scolaire"
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "2",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "9",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "2",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15136",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "Julfrida Ester",
+        "lastName": "MARGARETTA",
+        "creationDate": "2023-10-04T01:11:59+0200",
+        "updateDate": "2024-04-15T07:36:37+0200",
+        "reference": "JMA - Payment in USD for both contracts",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": ["mondepng"],
+        "title": "Environmental Monitoring & Evaluation Advisor",
+        "availability": "2024-11-01",
+        "realAvailability": "2024-11-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "julfridaesternab@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+62 81319771241",
+        "phone2": "",
+        "currency": 1,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "11405",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Gwilherm",
+        "lastName": "SIMON",
+        "creationDate": "2022-03-14T13:14:56+0100",
+        "updateDate": "2024-04-08T19:38:12+0200",
+        "reference": "GSI - Paid in Euro",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "-D\u00e9veloppement/optimisation du plan de maintenance m\u00e9canique\n- D\u00e9terminer les pi\u00e8ces n\u00e9cessaires \u00e0 tenir en stock\n- R\u00e9alisation de modes op\u00e9ratoires pour une mont\u00e9e en comp\u00e9tence des m\u00e9caniciens\n- Gestion d\u2019un backlog sous SAP et planification des interventions\n- Animation de r\u00e9unions de coordination (interne + SST) pendant et hors Shut Down\n- Suivi et r\u00e9ception de chantiers\n- Formation de techniciens locaux sur la planification et pr\u00e9paration\n- Mise en place de KPI",
+        "mobilityAreas": ["mondenouvellecaledonie", "mondeeuropefrance"],
+        "title": "Shutdown Planner",
+        "availability": "2024-07-01",
+        "realAvailability": "2024-07-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "gwi.roz@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "762428040",
+        "phone2": "+687 76 99 30 (ES)",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [
+          "Ciment",
+          "Industrial Maintenance",
+          "M\u00e9tallurgie/sid\u00e9rurgie"
+        ],
+        "activityAreas": ["maintenanceshutdown", "maintenancemechanical"],
+        "diplomas": [
+          "1995 - BTS - Maintenance industrielle - Lyc\u00e9e Charles de coulomb",
+          "BTS Maintenance industrielle (1995) Lyc\u00e9e Charles de coulomb - Angoul\u00eame"
+        ],
+        "experience": 7,
+        "references": [
+          {
+            "id": "38024",
+            "title": "Lafarge Ciments - La Couronne - 01/01/2011 - 01/01/2016",
+            "description": "Pr\u00e9parateur d'entretien m\u00e9canique secteur cuisson - Mise \u00e0 jour du logiciel de GMAO (MAXIMO) - Elaboration des cahiers des charges, \u00e9valuation des co\u00fbts pour \u00e9laboration du budget - Approvisionnement des pi\u00e8ces, gestion des stocks - Consultation de la sous-traitance pour la r\u00e9alisation des chantiers - Dessin de pi\u00e8ces sur autocad pour consultation - Suivi de chantier, \u00e9laboration du planning lors des arr\u00eats d'entretien"
+          },
+          {
+            "id": "38025",
+            "title": "Planificateur/Pr\u00e9parateur SENIOR - Koniambo Nickel - Nouvelle Cal\u00e9donie - 01/01/2016",
+            "description": "-D\u00e9veloppement/optimisation du plan de maintenance m\u00e9canique - D\u00e9terminer les pi\u00e8ces n\u00e9cessaires \u00e0 tenir en stock - R\u00e9alisation de modes op\u00e9ratoires pour une mont\u00e9e en comp\u00e9tence des m\u00e9caniciens - Gestion d'un backlog sous SAP et planification des interventions - Animation de r\u00e9unions de coordination (interne + SST) pendant et hors Shut Down - Suivi et r\u00e9ception de chantiers - Formation de techniciens locaux sur la planification et pr\u00e9paration - Mise en place de KPI"
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "819",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "2",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "10",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "11711",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "James",
+        "lastName": "POWELL",
+        "creationDate": "2022-05-05T01:18:28+0200",
+        "updateDate": "2024-04-12T14:50:28+0200",
+        "reference": "JPO - payment in Euro for both contracts",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": ["mondeaustralie"],
+        "title": "Civil Work Specialist",
+        "availability": "2024-05-31",
+        "realAvailability": "2024-05-31",
+        "averageDailyPriceExcludingTax": 700,
+        "email1": "powelljamesalfred@gmail.com",
+        "email2": "james.powell@external.totalenergies.com",
+        "email3": "",
+        "phone1": "+35 3862 24 9502",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 3.9984006397,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2005 - KPS Constructions",
+          "2002 - National Certificate in Occupational Health and Safety - Chartered Institute of Building (CIOB)",
+          "2000 - Bachelor of Science in Construction Engineering and Management - Heriot Watt University"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "40132",
+            "title": "Project Engineer - Clem Jones Tunnel - Brisbane - 01/2007 - 01/2009",
+            "description": ""
+          },
+          {
+            "id": "40133",
+            "title": "Project Engineer - John Holland - 01/2009 - 01/2010",
+            "description": "oversaw functions within structures team as part of an au$4.8b joint venture construction of airport link\nincluding leadership of daily project operations\nresource allocation and staff management\nimplemented and maintained robust safety best practices\nutilised troubleshooting skills while overseeing technical support and progress monitoring\nmitigated project delays via effective planning\nscheduling and resource allocation\nmonitored and minimised expenditure"
+          },
+          {
+            "id": "40134",
+            "title": "Senior Project Engineer - Seymour Whyte Constructions - Brisbane - 01/2010 - 01/2011",
+            "description": "consulted with clients and external parties to analyse and delineate project concerns and obstacles\nchaired meetings with key project stakeholders to discuss concerns\nled scheduling and monitoring functions to achieve an on-time result\nincluding follow-up with external suppliers"
+          },
+          {
+            "id": "40135",
+            "title": "Construction-Infrastructure Lead - Esso Highlands Ltd - 01/2011 - 01/2014",
+            "description": "collaborated with a multifaceted team as part of a us$19b liquefied natural gas\nengaged and negotiated with a mix of government agencies and internal departments\ntactfully and diplomatically liaised with locals / landowners and contractors to resolve disputes and legacy issues"
+          },
+          {
+            "id": "40136",
+            "title": "Site Manager of Construction/Civil/Mechanical/Electrical/Instrumentation - 01/2014 - 07/2020",
+            "description": "provided oversight and management of contractors and subcontractors"
+          },
+          {
+            "id": "40137",
+            "title": "Civils/Structures & Architectural Project Engineer - Winthrop Engineering - Dublin - 01/2020 - 12/2020",
+            "description": "present versight and management of contractors and subcontractors\nproviding oversight and management of contractors and subcontractors"
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "13929",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Nora",
+        "lastName": "Katter",
+        "creationDate": "2023-05-26T04:31:18+0200",
+        "updateDate": "2024-04-12T14:42:49+0200",
+        "reference": "NKA - PNG & intl portion paid in PGK on PNG account until further notice",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_13929_8021a6d877f8d5a99e0a4fbb269639bd536b1a14",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Societal Monitoring & Evaluation Advisor",
+        "availability": "2024-07-19",
+        "realAvailability": "2024-07-19",
+        "averageDailyPriceExcludingTax": 87.535,
+        "email1": "nora.katter@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+67573156655",
+        "phone2": "",
+        "currency": 3,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 0,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14948",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "Aizhan",
+        "lastName": "Kamysbayeva",
+        "creationDate": "2023-09-18T08:24:56+0200",
+        "updateDate": "2024-04-12T14:41:17+0200",
+        "reference": "AKA - Payment preferably AUD. TBC for PNG Contract Portion.",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Environmental Waste Management Advisor",
+        "availability": "2024-12-01",
+        "realAvailability": "2024-12-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "k_aizhan@inbox.ru",
+        "email2": "",
+        "email3": "",
+        "phone1": "+7 727 265 3937 KZ",
+        "phone2": "+7 701 244 22 88 KZ",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "13923",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "Olga",
+        "lastName": "Savchenko",
+        "creationDate": "2023-05-25T07:41:44+0200",
+        "updateDate": "2024-04-12T14:39:46+0200",
+        "reference": "OSA - 30%PNG - 70% AUS",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Transit Leader",
+        "availability": "2024-06-01",
+        "realAvailability": "2024-06-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "pismaole@gmail.com",
+        "email2": "jacek.organisciuk@exxonmobil.com",
+        "email3": "",
+        "phone1": "+67571019962",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 1,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15488",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Anthony",
+        "lastName": "Fossa",
+        "creationDate": "2023-10-30T03:22:46+0100",
+        "updateDate": "2024-04-12T14:36:34+0200",
+        "reference": "AFO - Paid in Expat Account",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Senior Site Company Representative",
+        "availability": "2024-07-01",
+        "realAvailability": "2024-07-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "anthonyfossa@yahoo.co.uk",
+        "email2": "",
+        "email3": "",
+        "phone1": "+61484905072",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 2,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "6078",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "12251",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Bruno",
+        "lastName": "MARIA",
+        "creationDate": "2022-08-08T11:54:06+0200",
+        "updateDate": "2024-04-12T07:55:11+0200",
+        "reference": "BMA - Paid in Euro",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "Result-oriented professional with extensive experience operating power plant while regulating project construction, pre-commissioning, and commissioning functions. Deft at leading multi-million-dollar engineering projects and translating requirements into technical specifications for teams to follow. Possess skills in conducting audits, developing database utilities, employing environmental procedures and recommending suggestions for increasing operational efficiency. Proven ability to create cost-effective, cutting-edge designs that meet project and product specifications. Large rotating equipment (gas turbines, steam turbines, compressors, panel control) hands on experience gained through more than 24 years of field supervising / leading contractors & sub-contractors",
+        "mobilityAreas": ["mondenc"],
+        "title": "Project Manager Commissioning",
+        "availability": "2024-06-17",
+        "realAvailability": "2024-06-17",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "turbine_maria@hotmail.com",
+        "email2": "bruno.maria@easy-skill.com",
+        "email3": "",
+        "phone1": "00818088524086",
+        "phone2": "75 35 26",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [
+          "Construction",
+          "Oil & Gaz",
+          "Energies thermiques",
+          "Solar"
+        ],
+        "activityAreas": ["eiacommissioning"],
+        "diplomas": [
+          "Master of Science in Mechanical Engineering Ecole Nationale d\u2019Ing\u00e9nieurs de Tarbes, ENIT, France"
+        ],
+        "experience": 6,
+        "references": [
+          {
+            "id": "43718",
+            "title": "Steam turbine Technical Advisor - Al Taweelah",
+            "description": ""
+          },
+          {
+            "id": "43719",
+            "title": "Business Manage - ARABIAN POWER CIE - 01/2004 - 01/2007",
+            "description": "developed tools with operation & maintenance teams to improve equipment monitoring and efficiencies\ntrained operators to operate safely and efficiently gas and steam turbines\nprovided valuable technical information and input to management during final negotiations with local authorities for power plant handover\ncarried out frame 9fa gas turbine\nsteam turbine erection and commissioning supervision to achieve project targets\nprovided technical assistance to management for decision making but also to obtain clearance from local authorities following incidents"
+          },
+          {
+            "id": "43720",
+            "title": "Commissioning manager - GULF TOTAL TRACTEBEL POWER CIE - 01/2008 - 01/2009",
+            "description": "evaluated contractor\u2019s installation documents to reduce errors and irregularities from existing framework\nreviewed commissioning procedures and evaluated test results\ninterfaced with local authorities to allow gas supply, grid connection and power export\nmanaged different specialised contractors to achieve project targets"
+          },
+          {
+            "id": "43721",
+            "title": "Clearance Manager - GENERAL ELECTRIC - Belfort - 01/2010 - 01/2011",
+            "description": "delivered commissioning assistance to conduct gas turbine assessments"
+          },
+          {
+            "id": "43722",
+            "title": "Warranty Support & Shutdown Manager Assistant - SHAMS POWER COMPANY - 01/2011 - 01/2014",
+            "description": "provided technical support to operating company for resolving escalated technical issues and ensured seamless project transition\naccomplished pending tests and closed files related to local authorities\noptimised service, quality, and productivity levels by upgrading gas heater refractory\ninstalled spectacle flange and by-pass line on steam-line and conduct steam turbine boroscopic inspection\ndiscussed and closed deals on favourable terms with key partners and managed engineering construction processes to meet organisational needs\nrecommended best opinion to assist construction department regarding turnover package and conducted analysis to overcome ambiguities throughout commissioning period\ndelivering to management\nprovided insurance claim technical support during incidents and documented overall issues and punched items with possible impact on production and costs\nemployed construction defect and inspection recording framework and power plant sub- system to remove errors and discrepancies from work stream\nassisted epc contractor to develop commissioning procedures and project schedule to meet target dates\nimproved organisational effectiveness and revenue figures by cultivating strong work relations with operation and maintenance department"
+          },
+          {
+            "id": "43723",
+            "title": "Combined cycle power plant Commissioning Engineer Lead - INPEX - 01/2014 - 01/2018",
+            "description": "steam turbine commissioning strategy\ndrove structure development and managed follow-ups for unhindered business functions\ndelivered robust engineering support to determine sub-systemisation scope\nalarp reviews and estimate gas consumption\nutilise integration approach to manage performance test documentation\nled a multi-cultural team of engineers and technicians for streamlining budgeting and estimation process for project"
+          },
+          {
+            "id": "43724",
+            "title": "Student to learn how to make French pastry - Tokyo - 01/2019 - 01/2020",
+            "description": "employed at school as a production chef to assist pastry & bakery departments teachers during classroom and practice sessions"
+          },
+          {
+            "id": "43725",
+            "title": "Technical advisor - Tokyo - 01/2022 - 08/2022",
+            "description": "develop skills through different online programs"
+          }
+        ],
+        "languages": [
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "japanese",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "2",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "16269",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Guillaume",
+        "lastName": "STROEBEL",
+        "creationDate": "2024-02-12T12:00:42+0100",
+        "updateDate": "2024-04-11T17:04:15+0200",
+        "reference": "GTR - Paid in Euro",
+        "typeOf": 15,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Project Manager",
+        "availability": "2024-04-06",
+        "realAvailability": "2024-04-06",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "guillaume.stroebel@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+33630582419",
+        "phone2": "",
+        "currency": 0,
+        "exchangeRate": 1,
+        "currencyAgency": 0,
+        "exchangeRateAgency": 1,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2015 - MAdmin. in Energy Management & Marketing - GRENOBLE ECOLE DE MANAGEMENT",
+          "2012 - M.Sc. in Environmental and Innovative Engineering - EPF \u2013 ENGINEERING SCHOOL"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "59204",
+            "title": "",
+            "description": "GCO Solar Project - Design Vetting, Site and Commissioning Supervision"
+          },
+          {
+            "id": "59205",
+            "title": "Deputy Project Manager",
+            "description": "ILF Consulting Engineers\nPage 7 of 8\nCV Guillaume STROEBEL, Deputy Project Manager, Site Engineering Manager"
+          },
+          {
+            "id": "59206",
+            "title": "Project Manager",
+            "description": "Substation Automation -\nDistributed\nControl\nSystem\nUnited\nKingdom\nKemsley\nSubstation\nProject\nManager\n- Financial and Budget Follow up, Cost Control\n- Weekly and Monthly Reporting\n- Supervision of Basic and Detailed Automation Electrical Design,\n- Procurement of Electrical Equipment,\n- Factory Acceptance Test (FAT)\n- Logistics and customs Management\n- Construction site Supervision\n- Commissioning and Training\n- Risk assessment\n- Quality monitoring"
+          },
+          {
+            "id": "59207",
+            "title": "Project Manager",
+            "description": "Substation Automation -\nDistributed\nControl\nSystem\nConnection:132/33kV\nsubstation\nPakistan\nJamalpur\nSustation\nExtension\nProject\nManager\n- Financial and Budget Follow up, Cost Control\n- Weekly and Monthly Reporting\n- Supervision of Basic and Detailed Automation Electrical Design,\n- Procurement of Electrical Equipment,\n- Factory Acceptance Test (FAT)\n- Logistics and customs Management\n- Construction site Supervision\n- Commissioning and Training\n- Risk assessment\n- Quality monitoring\n- HSE Management"
+          },
+          {
+            "id": "59208",
+            "title": "Tendering Manager",
+            "description": "SENELEC\nAdvanced\nDistribution Management\nSystem\nAutomation of HVA/LV\nSubstations\nSenegal\nAO-11\nElectrical\nDistribution\nAutomation\nDakar\nTendering\nManager\n- Tendering Lead\n- Site visits,\n- Management of internal and external partners,\n- Evaluation of the subcontractors offer\n- Technical coordination for Basic and Detailed Electrical\nAutomation Design,\n- Project Budget management (Credit Risk, Currency hedging, Tax\nanalysis),\n- Project Financial Closure\n- Legal and contractual management (Contract Management,\nT&C's),\n-\nRisk management"
+          },
+          {
+            "id": "59209",
+            "title": "Deputy Project Manager",
+            "description": "ILF Consulting Engineers\nPage 6 of 8\nCV Guillaume STROEBEL, Deputy Project Manager, Site Engineering Manager"
+          },
+          {
+            "id": "59210",
+            "title": "Tendering Manager",
+            "description": "SBEE\nAdvanced\nDistribution Management\nSystem\nConnection:\nHVB/HVA/LV\nBenin\n-\nMCA Benin\nII\nTendering\nManager\n- Tendering Lead\n- Site visits,\n- Management of internal and external partners,\n- Evaluation of the subcontractors offer\n- Technical coordination for Basic and Detailed Electrical\nAutomation Design,\n- Project Budget management (Credit Risk, Currency hedging, Tax\nanalysis),\n- Project Financial Closure\n- Legal and contractual management (Contract Management,\nT&C's),"
+          },
+          {
+            "id": "59211",
+            "title": "Manager",
+            "description": "Photovoltaic\npower\nplants, Senegal, Project\nExtension of Existing PV\nplant :\n1 PV: 2 MWp\nSenegal\n-\nDirect Client\nOmexom\nFinal Client:\nSenelec\nLocal Project\nManager\n- Visits, site assessments\n- Tendering,\n- Contract management,\n- Weekly and Monthly Reporting\n- Financial and Budget Follow up, Cost Control\n- Assessment of Curriculum Vitae and Recruitment of local workers\n- Supervision of Detailed Electrical Design,\n- Supervision of Detailed Roads and Underground Networks Design\n- Procurement of Low Voltage Electrical Equipment,\n- Construction site Supervision, Construction Team management\n- Commissioning\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59212",
+            "title": "Local Project Manager",
+            "description": "Photovoltaic and hybrid\npower plants, Senegal,\n8 power plants :\n1\nPV:\n23\nMWp\n(connected to the grid)\n4 hybrids: PV (1 MWp),\nBattery (2.4 MWh), Diesel\n(1.2 MW\n3 hybrids: PV: 1 MWp +\nDiesel: 2.4 MW\nSenegal\n-\nDirect Client\nOmexom\nFinal Client:\nSenelec\n/\nKfW\nLocal Project\nManager\n- Visits, site assessments\n- Contract management,\n- Weekly and Monthly Reporting\n- Financial and Budget Follow up, Cost Control\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Construction site Supervision, Construction Team management\n- Commissioning\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59213",
+            "title": "Project Manager",
+            "description": "Construction of Electric\nNetwork\nfor\nDrinking\nWater\nSystems:\nHVA\nOverhead\nLines,\nHVA\nSubstations, 12 Drilling\nStations,\n2\nPumping\nStations\nBohicon\nConnection: HVA (20kV)\nBenin\n-\nSONEB\nProject\nManager\n- Visits, site assessments\n- Tendering and Contract Negotiations,\n- Financial and Budget Follow up, Cost Control\n- Weekly and Monthly Reporting\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed LV and HVA Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Supervision of Basic and Detailed HVA Lines Design\n- Procurement of Electrical Equipment,\n- Factory Acceptance Test (FAT)\n- Construction site Supervision, Construction Team management\n- Commissioning and Training of SONEB stakeholders\n- Pumping Station Plant Monitoring Design and implementation\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59214",
+            "title": "Project Manager",
+            "description": "Construction of Electric\nNetwork\nfor\nDrinking\nWater\nSystems:\nHVA\nOverhead\nLines,\nHVA\nSubstations,\n9\nDrilling\nStations,\n1\nPumping\nStation\nAbomey Calavi\nConnection: HVA (20kV)\nBenin\n-\nSONEB\nProject\nManager\n- Visits, site assessments\n- Tendering and Contract Negotiations,\n- Financial and Budget Follow up, Cost Control\n- Weekly and Monthly Reporting\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed LV and HVA Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Supervision of Basic and Detailed HVA Lines Design\n- Procurement of Electrical Equipment,\n- Factory Acceptance Test (FAT)\n- Construction site Supervision, Construction Team management\n- Commissioning and Training of SONEB stakeholders\n- Pumping Station Plant Monitoring Design and implementation\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59215",
+            "title": "",
+            "description": "GCO Solar Project - Design Vetting, Site and Commissioning Supervision"
+          },
+          {
+            "id": "59216",
+            "title": "Deputy Project Manager",
+            "description": "ILF Consulting Engineers\nCV Guillaume STROEBEL, Deputy Project Manager, Site Engineering Manager"
+          },
+          {
+            "id": "59217",
+            "title": "Manager PV, Electrical Expert",
+            "description": "Construction of PV Car\nPort Avermes\nPV: 8 MWp\nConnection: HVA (20kV)\nFrance\nEDF ENR\nProject\nManager\nPV, Electrical\nExpert\n- Visits, site assessments\n- Tendering,\n- Contract management,\n- Financial and Budget Follow up, Cost Control\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Procurement of Electrical Equipment,\n- Construction site Supervision, Construction Team management\n- Commissioning\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59218",
+            "title": "Project Manager",
+            "description": "Construction of PV Car\nPort Marckolsheim 1\nPV: 8 MWp\nConnection: HVA (20kV)\nFrance\n-\nTotal\nEnergies\nFrance\nProject\nManager\nPV, Electrical\nExpert\n- Visits, site assessments\n- Tendering,\n- Contract management,\n- Financial and Budget Follow up, Cost Control\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Procurement of Electrical Equipment,\n- Construction site Supervision, Construction Team management\n- Commissioning and Training\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59219",
+            "title": "Deputy Project Manager",
+            "description": "ILF Consulting Engineers\nPage 3 of 8\nCV Guillaume STROEBEL, Deputy Project Manager, Site Engineering Manager"
+          },
+          {
+            "id": "59220",
+            "title": "Project Manager",
+            "description": "Construction of PV Car\nPort DVTA 1 & 2\nPV: 16 MWp\nConnection: HVA (20kV)\nFrance\n-\nENGIE\nGREEN\nFrance\nProject\nManager\nPV, Electrical\nExpert\n- Visits, site assessments\n- Tendering and Contract Negotiations,\n- Contract management,\n- Financial and Budget Follow up, Cost Control\n- Evaluation of the subcontractors offer, negotiation and\ncontracting\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Procurement of Electrical Equipment,\n- Construction site Supervision, Construction Team management"
+          },
+          {
+            "id": "59221",
+            "title": "Manager PV, Electrical Expert",
+            "description": "Construction of PV Car\nPort VGF South & North\nPV: 20 MWp\nConnection: HVA (15kV)\nFrance\n-\nENGIE\nGREEN\nFrance\nProject\nManager\nPV, Electrical\nExpert\n- Visits, site assessments\n- Tendering and Contract Negotiations,\n- Financial and Budget Follow up, Cost Control\n- Evaluation of the subcontractors offer, negotiation and\ncontracting\n- Assessment of Curriculum Vitae and Recruitment of local\nworkers\n- Supervision of Basic and Detailed Electrical Design,\n- Supervision of Basic and Detailed Roads and Underground\nNetworks Design\n- Procurement of Electrical Equipment,\n- Construction site Supervision, Construction Team management\n- Commissioning and Training\n- PV Plant Monitoring\n- Risk assessment\n- HSE Management"
+          },
+          {
+            "id": "59222",
+            "title": "Deputy Project Manager",
+            "description": "ILF Consulting Engineers\nPage 2 of 8\nCV Guillaume STROEBEL, Deputy Project Manager, Site Engineering Manager"
+          },
+          {
+            "id": "59223",
+            "title": "",
+            "description": "Proposal for:\nGCO Solar Project - Design Vetting, Site and Commissioning Supervision\n15227-ILF-GER-OD-0001"
+          },
+          {
+            "id": "59224",
+            "title": "Project manager",
+            "description": "\u2013\nProject manager\nSCHNEIDER\nELECTRIC\n\u2013\nLattes, France\nFrance\nProject Manager for\nSubstation\nAutomation\nSystems\nprojects\nworlwide."
+          },
+          {
+            "id": "59225",
+            "title": "Project manager",
+            "description": "\u2013\nProject manager\nLSE/SOGEA SATOM, Dakar,\nSenegal\nReference:\nchristophe.gaudefroy@vinci-\nenergies.com\nSenegal\nProject\nManager\nand Site Supervisor\nfor the construction\nof utility scale Power\nPlants in Senegal\nProject\nManager\nand Site Supervisor\nfor the construction\nof Electric Network\nfor Drinking Water\nSystems"
+          },
+          {
+            "id": "59226",
+            "title": "PV Activity Manager",
+            "description": "\u2013\nPV Activity Manager\nPhotovoltaic Plant Construction\nProject manager\nCegelec Toulouse\nPhotovolta\u00efque., Toulouse,\nFrance\nReference:\nphilippe.forestier@cegelec.com\nFrance\nPV Activity Leader\nand\nProject\nManager\nfor\nthe\nconstruction of utility\nscale\nand\nsmall\nscale PV projects in\nFrance"
+          },
+          {
+            "id": "59227",
+            "title": "Deputy Project Manager",
+            "description": "Position Title and No.\nDeputy Project Manager, Site Engineering Manager\nName of Expert:\nGuillaume STROEBEL\nDate of Birth:\nCountry of\nCitizenship/Residence\nFrance / France"
+          },
+          {
+            "id": "59228",
+            "title": "",
+            "description": "Proposal for:\nGCO Solar Project - Design Vetting, Site and Commissioning Supervision\n15227-ILF-GER-OD-"
+          }
+        ],
+        "languages": [
+          {
+            "language": "french",
+            "level": ""
+          },
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "spanish",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "819",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "11161",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "2",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "3",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "15125",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Oscar Alejandro",
+        "lastName": "BEDOYA CADAVID",
+        "creationDate": "2023-10-03T06:15:34+0200",
+        "updateDate": "2024-04-11T11:11:31+0200",
+        "reference": "OBE - Payment in Euro for both contracts",
+        "typeOf": 19,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_15125_e3c5387aab9feeb049a7dc8736b8e34573c8efb4",
+        "skills": "",
+        "mobilityAreas": ["oceaniepapouasie"],
+        "title": "\uf0b7 Senior Mechanic",
+        "availability": "2025-01-01",
+        "realAvailability": "2025-01-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "oabcbedoya7491@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+576043017629",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": ["2010 - ACADEMIC BACHELOR'S DEGREE"],
+        "experience": -1,
+        "references": [
+          {
+            "id": "55454",
+            "title": "Technical specialist",
+            "description": "COMPANY NAME:\nPOSITION:\nIMMEDIATE BOSS:\nPHONE:\nTIME WORKED:\nYEAR:\nFUNCTIONS:\nSandvik Colombia\nTechnical specialist\nNestor Duran\n314 337 3896\n3 years and 8 Months\nContinental Gold:\nMaintenance and repair of sandvik equipment\nDD 321, DD 311, DS 311, DD 210, LH410, LH307, LH204,\nTH430, TH540.\nSacyr:\nMaintenance and repair of sandvik equipment\nDT 1131, DT 920i, DT820, LH410\nSandvik Central Workshop:\nOverhaul DD321, DD311, LH307, LH410."
+          },
+          {
+            "id": "55455",
+            "title": "",
+            "description": "COMPANY NAME:\nPOSITION:\nIMMEDIATE BOSS:\nPHONE:\nTIME WORKED:\nYEAR:\nFUNCTIONS:\nStracon GyM\nMec\u00e1nic\nIng. Jose huatuco\n605 00 95 ext 4207\n10 months\nFrom to\nmaintenance and repair of equipment\nJumbo 282, loader ST2G, DD311, DD321, LH307"
+          },
+          {
+            "id": "55456",
+            "title": "",
+            "description": "COMPANY NAME:\nPOSITION:\nIMMEDIATE BOSS:\nPHONE:\nTIME WORKED:\nYEAR:\nFUNCTIONS:\nMining the trapiche\nMechanic 1\nOmar augusto cadavid\n3122032158\n18 Months\nmaintenance and repair of equipment\nCAT Excavator (320, 330), Bulldozer D6"
+          }
+        ],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14213",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 0,
+        "firstName": "Edgar Eduardo Cardenas",
+        "lastName": "Pardo",
+        "creationDate": "2023-07-03T06:20:28+0200",
+        "updateDate": "2024-04-11T05:17:04+0200",
+        "reference": "EPA - payment in USD for both contracts",
+        "typeOf": 18,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "",
+        "skills": "",
+        "mobilityAreas": [],
+        "title": "Senior Mechanical Engineer",
+        "availability": "2024-07-01",
+        "realAvailability": "2024-07-01",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "ee.cardenas@yahoo.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "6346 4236162",
+        "phone2": "",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [],
+        "experience": -1,
+        "references": [],
+        "languages": []
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1271",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    },
+    {
+      "id": "14973",
+      "type": "resource",
+      "attributes": {
+        "canShowTechnicalData": true,
+        "canShowActions": true,
+        "civility": 1,
+        "firstName": "Maria Luz A.",
+        "lastName": "ALVARO",
+        "creationDate": "2023-09-20T03:18:38+0200",
+        "updateDate": "2024-04-11T02:06:01+0200",
+        "reference": "MAL - Payment in PGK",
+        "typeOf": 13,
+        "state": 4,
+        "isVisible": true,
+        "thumbnail": "resource_14973_91b9539eaf9a716a139bd88696a86250680c808a",
+        "skills": "",
+        "mobilityAreas": ["oceaniepapouasie"],
+        "title": "HR Manager",
+        "availability": "2025-10-02",
+        "realAvailability": "2025-10-02",
+        "averageDailyPriceExcludingTax": 0,
+        "email1": "manila0313@gmail.com",
+        "email2": "",
+        "email3": "",
+        "phone1": "+675 71988045",
+        "phone2": "+675 7822 1006",
+        "currency": 4,
+        "exchangeRate": 0.2501,
+        "currencyAgency": 4,
+        "exchangeRateAgency": 0.2501,
+        "numberOfResumes": 1,
+        "numberOfActivePositionings": 0,
+        "tools": [],
+        "expertiseAreas": [],
+        "activityAreas": [],
+        "diplomas": [
+          "2008 - Certificate in Human Resources Development and Management - IUATLD International Management Development Programme",
+          "2004 - Certificate in Organization Development - University of Makati and Personnel Management Association of the Philippines (PMAP)",
+          "1999 - Bachelor of Arts Major in Psychology - Philippine Christian University",
+          "2014 - Quality Management System - Asian\nInstitute\nof\nQuality\nManagement",
+          "Professional (MAHRI) Member - Australian HR Institute (AHRI)"
+        ],
+        "experience": -1,
+        "references": [
+          {
+            "id": "55158",
+            "title": "Clerical Student Assistant",
+            "description": "Clerical Student Assistant\n\u2013\nPhilippine Christian University, Taft Avenue, Manila (Athletics Department)"
+          },
+          {
+            "id": "55159",
+            "title": "Psychometrician",
+            "description": "Psychometrician\n\u2013\nHRD-Psychology Department (Completed 300 hours)\nS.M. Lazo Medical Clinic, Inc., Manila, Philippines"
+          },
+          {
+            "id": "55160",
+            "title": "Held various positions in NCP under PPAS/IT Unit",
+            "description": "Held various positions in NCP under PPAS/IT Unit from to\n(8.1 years):\nUnit Head\n01 July 2002 \u2013 28 August 2007\nOfficer-In-Charge\n01 November 2001 \u2013 30 June 2002\nPPAS/IT Technical Support Staff 18 October 1999 \u2013 31 October 2001\nAdministrative Assistant\n19 July 1999 \u2013 18 October 1999"
+          },
+          {
+            "id": "55161",
+            "title": "",
+            "description": "Unit Head\n\u2013\nPlanning, Personnel, Administrative Services and\nInformation Technology (PPAS/IT) Unit\nNUTRITION CENTER OF THE PHILIPPINES, INC., Makati City, Philippines\n(a non-profit organization with health, nutrition and research programs, projects and services delivered nationwide; the\nPPAS/IT Unit also provides center-wide services to NCP Subsidiary Companies: NCPPC and PNFC - Print Production and\nFood Manufacturing Corporations)"
+          },
+          {
+            "id": "55162",
+            "title": "Human Resources Consultant",
+            "description": "Human Resources Consultant\n\u2013\nHuman Resources and Administration 01 October 2007 \u2013 31 December 2009\nManager\nTROPICAL DISEASE FOUNDATION, INC., Makati City, Philippines\n(a non-profit health and research organization with TB, Malaria and HIV/AIDS programs, projects and services delivered\nnationwide)"
+          },
+          {
+            "id": "55163",
+            "title": "Personnel Assistant",
+            "description": "Personnel Assistant / Medical Secretary \u2013\nFor Local and International Recruitment\nHuman Resources Department and Office of the Medical Director\nPRINCE SULTAN ARMED FORCES HOSPITAL, Al Madinah Al Munawarah, Kingdom of\nSaudi Arabia (Government Military Hospital)\nProvides assistance to the Human Resources Director in planning, directing, and coordinating\nhuman resource management activities of the hospital to maximize the strategic use of human\nresources and maintain functions such as employee compensation, local and international\nrecruitment, personnel policies, and regulatory compliance. Provides general office\nmanagement, administrative and secretarial functions to the Office of the Medical Director."
+          },
+          {
+            "id": "55164",
+            "title": "Human Resources and OD Consultant",
+            "description": "Human Resources and OD Consultant\n\u2013\nLEARNING ENHANCEMENT ADVANCE PROGRAM \u2013 LEAP /\nREACH INTERNATIONAL SCHOOL\n(as Freelance Consultant to International Schools)\nResponsible for providing a comprehensive HR management advisory and consultancy service to\nstaff and management on operational human resources related issues, including development\nand communication of policies, training administration, human resources reporting and\ncoordinating in recruitment process, remuneration and performance management processes."
+          },
+          {
+            "id": "55165",
+            "title": "Human Resources Manager",
+            "description": "Human Resources Manager \u2013\nPACIFIC INTERNATIONAL HOSPITAL\nPort Moresby, Papua New Guinea\n(a multi-specialty hospital with international standards of patient care and hospital operation in Papua New Guinea)\nProvides assistance to the Human Resources Director in planning, directing, and coordinating\nhuman resource management activities of the organization to maximize the strategic use of\nhuman resources and maintain functions such as employee compensation and benefits, local and\ninternational recruitment, performance management, personnel policies, and regulatory\ncompliance."
+          },
+          {
+            "id": "55166",
+            "title": "Human Resources Consultant",
+            "description": "Human Resources Consultant / Manager\n\u2013\nPOPULATION SERVICES INTERNATIONAL\nPort Moresby, Papua New Guinea\n(an international health non-governmental organization focusing on improving the health of Papua New Guineans)\nResponsible for providing a comprehensive HR management advisory to staff and senior\nmanagement, and project sub-recipients; Manages operational human resources and\nadministrative related issues, including development and communication of policies, training\nadministration, human resources reporting and coordinating in recruitment process,\nremuneration and performance management processes; Provide consultation to management\non employee relations issues, and manage all disciplinary issues within the organization; Manage\nall redundancy situations including calculations and communications to affected employees;\nWork closely with management and employees on all grievance issues within the organization;\nProvide senior management and others with various types of employee reports including\nattrition, absence, compensation, annual leave and headcount; Management of the full local\nand international recruitment process including sourcing strategy; interviewing; reference\nchecking; making offers to candidates; driving and delivering induction training; Processing\nImmigration paperwork for visa and/or work permits and statutory compliance for licensing and\nregistration. Responsible for the development and delivery of employee induction program;\nProvision of on-going consultation to management on performance related issues."
+          },
+          {
+            "id": "55167",
+            "title": "Human Resources and Operations Manager",
+            "description": "Human Resources and Operations Manager\nPACIFIC INTERNATIONAL HOSPITAL\nPort Moresby, Papua New Guinea\n(a multi-specialty hospital with international standards of patient care and hospital operation in Papua New Guinea)\nProvides assistance to the Human Resources Director in planning, directing, and coordinating\nhuman resource management activities in the organization ---- including human resources and\noperational activities in East Lorengau Refugees Transit Centre (ELRTC) Clinic in Manus Island\nProvince and in Port Moresby, National Capital District, to maximize the strategic use of human\nresources and maintain functions such as employee compensation and benefits, local and\ninternational recruitment (work permits and visa processing), performance management,\npersonnel policies, and regulatory compliance (licensing and registration)."
+          },
+          {
+            "id": "55168",
+            "title": "Human Resources and Administration Manager",
+            "description": "Human Resources and Administration Manager \u2013\nCurrently based and assigned in LAE INTERNATIONAL HOSPITAL\n(a Unit of PACIFIC INTERNATIONAL HOSPITAL) since 20th January 2020 till date\nLae, Morobe Province, Papua New Guinea\nManages the human resources and administration department and provides assistance to the\nOperations Head in planning, directing, and coordinating the day-to-day hospital operational\nactivities (24/7)."
+          }
+        ],
+        "languages": [
+          {
+            "language": "english",
+            "level": ""
+          },
+          {
+            "language": "filipino",
+            "level": ""
+          },
+          {
+            "language": "arabic",
+            "level": ""
+          },
+          {
+            "language": "pidgin",
+            "level": ""
+          }
+        ]
+      },
+      "relationships": {
+        "mainManager": {
+          "data": {
+            "id": "1271",
+            "type": "resource"
+          }
+        },
+        "hrManager": {
+          "data": {
+            "id": "14198",
+            "type": "resource"
+          }
+        },
+        "agency": {
+          "data": {
+            "id": "4",
+            "type": "agency"
+          }
+        },
+        "pole": {
+          "data": {
+            "id": "5",
+            "type": "pole"
+          }
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "2",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Lorho",
+        "firstName": "Christopher"
+      }
+    },
+    {
+      "id": "14198",
+      "type": "resource",
+      "attributes": {
+        "lastName": "Koni",
+        "firstName": "Georgina"
+      }
+    },
+    {
+      "id": "4",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill PNG Limited"
+      }
+    },
+    {
+      "id": "5",
+      "type": "pole",
+      "attributes": {
+        "name": "PNG Center"
+      }
+    },
+    {
+      "id": "3364",
+      "type": "resource",
+      "attributes": {
+        "lastName": "KILI",
+        "firstName": "Jothen"
+      }
+    },
+    {
+      "id": "1271",
+      "type": "resource",
+      "attributes": {
+        "lastName": "RIX",
+        "firstName": "Graham"
+      }
+    },
+    {
+      "id": "6078",
+      "type": "resource",
+      "attributes": {
+        "lastName": "MARTINE",
+        "firstName": "Jonathan"
+      }
+    },
+    {
+      "id": "1",
+      "type": "resource",
+      "attributes": {
+        "lastName": "BUSSY",
+        "firstName": "Pierre"
+      }
+    },
+    {
+      "id": "819",
+      "type": "resource",
+      "attributes": {
+        "lastName": "CROM",
+        "firstName": "Mickael"
+      }
+    },
+    {
+      "id": "11161",
+      "type": "resource",
+      "attributes": {
+        "lastName": "DIALLO",
+        "firstName": "Aminatou"
+      }
+    },
+    {
+      "id": "2",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Australia Intl"
+      }
+    },
+    {
+      "id": "3",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le France"
+      }
+    },
+    {
+      "id": "13681",
+      "type": "resource",
+      "attributes": {
+        "lastName": "COSTANTINE",
+        "firstName": "JAD"
+      }
+    },
+    {
+      "id": "9",
+      "type": "agency",
+      "attributes": {
+        "name": "Easy Skill Singapore - Teamforge PTE LTD"
+      }
+    },
+    {
+      "id": "2",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le NC"
+      }
+    },
+    {
+      "id": "10",
+      "type": "pole",
+      "attributes": {
+        "name": "P\u00f4le Madagascar"
+      }
+    }
+  ]
+}
